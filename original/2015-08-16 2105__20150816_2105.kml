@@ -1,0 +1,2523 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<name><![CDATA[2015-08-16 21:05]]></name>
+<description><![CDATA[<h1>OruxMaps</h1><br /><hr align="center" width="480" style="height: 2px; width: 517px"/><h2>Название: 2015-08-16 21:05</h2><br /><p>Время старта: 08/16/2015 22:27</p><p>Время финиша: 08/17/2015 16:18</p><p>Дистанция: 9,4km (17:50)</p><p>Время движения: 01:56</p><p>Средняя скорость: 0,5km/h</p><p>Средн. скорость движ.: 4,8km/h</p><p>Макс. скорость: 10,7km/h</p><p>Мин. высота: 346m</p><p>Макс. высота: 701m</p><p>Набор скорости: 46m/h</p><p>Сброс скорости: -55,6m/h</p><p>Набор высоты: 567m</p><p>Потеря высоты: -294m</p><p>Время набора скор.: 12:19</p><p>Время сброса скор.: 05:17</p><hr align="center" width="480" style="height: 2px; width: 517px"/>]]></description>
+<StyleMap id="multiTrack"><Pair><key>normal</key><styleUrl>#multiTrack_n</styleUrl></Pair><Pair><key>highlight</key><styleUrl>#multiTrack_h</styleUrl></Pair></StyleMap><Style id="multiTrack_n"><IconStyle><Icon><href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href></Icon></IconStyle><LineStyle><color>99ffac59</color><width>6</width></LineStyle></Style><Style id="multiTrack_h"><IconStyle><scale>1.2</scale><Icon><href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href></Icon></IconStyle><LineStyle><color>99ffac59</color><width>8</width></LineStyle></Style><Style id="3"><BalloonStyle><text><![CDATA[<p align="left"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text></BalloonStyle><IconStyle><Icon><href>http://www.oruxmaps.com/iconos/wpts_foto.png</href></Icon><color>FFFFFFFF</color><colorMode>normal</colorMode><hotSpot x="0.5" xunits="fraction" y="1" yunits="fraction" /></IconStyle><LabelStyle><color>FFFFFFFF</color></LabelStyle></Style>
+<Style id="1"><BalloonStyle><text><![CDATA[<p align="left"><font size="+1"><b>$[name]</b></font></p> <p align="left">$[description]</p>]]></text></BalloonStyle><IconStyle><Icon><href>http://www.oruxmaps.com/iconos/wpts_pin1.png</href></Icon><color>FFFFFFFF</color><colorMode>normal</colorMode><hotSpot x="0.5" xunits="fraction" y="1" yunits="fraction" /></IconStyle><LabelStyle><color>FFFFFFFF</color></LabelStyle></Style>
+<Folder>
+<name>Waypoints</name>
+<Placemark>
+<name><![CDATA[Памятник ]]></name>
+<description><![CDATA[]]></description>
+<styleUrl>#3</styleUrl>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>57.6783117,54.1388583,367.03</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[]]></name>
+<description><![CDATA[]]></description>
+<styleUrl>#1</styleUrl>
+<Point>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>57.6718850,54.1348850,691.55</coordinates>
+</Point>
+</Placemark>
+<visibility>1</visibility>
+</Folder>
+<Folder>
+<name>Tracks</name>
+<Placemark>
+<name><![CDATA[Segment 1]]></name>
+<description><![CDATA[]]></description>
+<styleUrl>#multiTrack</styleUrl>
+<gx:Track>
+<when>2015-08-16T16:27:49Z</when>
+<when>2015-08-16T16:30:30Z</when>
+<when>2015-08-16T16:30:38Z</when>
+<when>2015-08-16T16:30:46Z</when>
+<when>2015-08-16T16:31:04Z</when>
+<when>2015-08-16T16:31:10Z</when>
+<when>2015-08-16T16:31:16Z</when>
+<when>2015-08-16T16:31:22Z</when>
+<when>2015-08-16T16:31:29Z</when>
+<when>2015-08-16T16:31:35Z</when>
+<when>2015-08-16T16:31:40Z</when>
+<when>2015-08-16T16:31:47Z</when>
+<when>2015-08-16T16:32:23Z</when>
+<when>2015-08-16T16:32:32Z</when>
+<when>2015-08-16T16:32:37Z</when>
+<when>2015-08-16T16:32:42Z</when>
+<when>2015-08-16T16:32:48Z</when>
+<when>2015-08-16T16:34:00Z</when>
+<when>2015-08-16T16:34:06Z</when>
+<when>2015-08-16T16:34:11Z</when>
+<when>2015-08-16T16:34:20Z</when>
+<when>2015-08-16T16:34:27Z</when>
+<when>2015-08-16T16:34:33Z</when>
+<when>2015-08-16T16:34:40Z</when>
+<when>2015-08-16T16:34:48Z</when>
+<when>2015-08-16T16:34:55Z</when>
+<when>2015-08-16T16:35:05Z</when>
+<when>2015-08-16T16:35:09Z</when>
+<when>2015-08-16T16:35:17Z</when>
+<when>2015-08-16T16:35:24Z</when>
+<when>2015-08-16T16:35:30Z</when>
+<when>2015-08-16T16:35:39Z</when>
+<when>2015-08-16T16:35:44Z</when>
+<when>2015-08-16T16:35:53Z</when>
+<when>2015-08-16T16:36:00Z</when>
+<when>2015-08-16T16:36:07Z</when>
+<when>2015-08-16T16:36:13Z</when>
+<when>2015-08-16T16:36:22Z</when>
+<when>2015-08-16T16:36:28Z</when>
+<when>2015-08-16T16:36:36Z</when>
+<when>2015-08-16T16:36:44Z</when>
+<when>2015-08-16T16:36:49Z</when>
+<when>2015-08-16T16:36:58Z</when>
+<when>2015-08-16T16:37:03Z</when>
+<when>2015-08-16T16:37:12Z</when>
+<when>2015-08-16T16:37:17Z</when>
+<when>2015-08-16T16:37:26Z</when>
+<when>2015-08-16T16:37:33Z</when>
+<when>2015-08-16T16:37:45Z</when>
+<when>2015-08-16T16:37:50Z</when>
+<when>2015-08-16T16:37:58Z</when>
+<when>2015-08-16T16:38:03Z</when>
+<when>2015-08-16T16:38:13Z</when>
+<when>2015-08-16T16:38:24Z</when>
+<when>2015-08-16T16:38:30Z</when>
+<when>2015-08-16T16:38:37Z</when>
+<when>2015-08-16T16:38:46Z</when>
+<when>2015-08-16T16:38:54Z</when>
+<when>2015-08-16T16:39:00Z</when>
+<when>2015-08-16T16:39:10Z</when>
+<when>2015-08-16T16:39:19Z</when>
+<when>2015-08-16T16:39:27Z</when>
+<when>2015-08-16T16:39:35Z</when>
+<when>2015-08-16T16:39:46Z</when>
+<when>2015-08-16T16:39:54Z</when>
+<when>2015-08-16T16:40:03Z</when>
+<when>2015-08-16T16:40:12Z</when>
+<when>2015-08-16T16:40:20Z</when>
+<when>2015-08-16T16:40:27Z</when>
+<when>2015-08-16T16:40:34Z</when>
+<when>2015-08-16T16:40:42Z</when>
+<when>2015-08-16T16:40:50Z</when>
+<when>2015-08-16T16:40:59Z</when>
+<when>2015-08-16T16:41:06Z</when>
+<when>2015-08-16T16:41:15Z</when>
+<when>2015-08-16T16:41:21Z</when>
+<when>2015-08-16T16:41:27Z</when>
+<when>2015-08-16T16:41:34Z</when>
+<when>2015-08-16T16:41:42Z</when>
+<when>2015-08-16T16:41:52Z</when>
+<when>2015-08-16T16:42:01Z</when>
+<when>2015-08-16T16:42:10Z</when>
+<when>2015-08-16T16:42:16Z</when>
+<when>2015-08-16T16:42:24Z</when>
+<when>2015-08-16T16:42:34Z</when>
+<when>2015-08-16T16:42:42Z</when>
+<when>2015-08-16T16:42:47Z</when>
+<when>2015-08-16T16:42:56Z</when>
+<when>2015-08-16T16:43:04Z</when>
+<when>2015-08-16T16:43:12Z</when>
+<when>2015-08-16T16:43:18Z</when>
+<when>2015-08-16T16:43:26Z</when>
+<when>2015-08-16T16:43:36Z</when>
+<when>2015-08-16T16:43:44Z</when>
+<when>2015-08-16T16:43:54Z</when>
+<when>2015-08-16T16:44:00Z</when>
+<when>2015-08-16T16:44:08Z</when>
+<when>2015-08-16T16:44:15Z</when>
+<when>2015-08-16T16:44:26Z</when>
+<when>2015-08-16T16:44:34Z</when>
+<when>2015-08-16T16:44:43Z</when>
+<when>2015-08-16T16:44:48Z</when>
+<when>2015-08-16T16:44:55Z</when>
+<when>2015-08-16T16:45:05Z</when>
+<when>2015-08-16T16:45:12Z</when>
+<when>2015-08-16T16:45:18Z</when>
+<when>2015-08-16T16:45:24Z</when>
+<when>2015-08-16T16:45:30Z</when>
+<when>2015-08-16T16:45:37Z</when>
+<when>2015-08-16T16:45:45Z</when>
+<when>2015-08-16T16:45:52Z</when>
+<when>2015-08-16T16:46:00Z</when>
+<when>2015-08-16T16:46:07Z</when>
+<when>2015-08-16T16:46:15Z</when>
+<when>2015-08-16T16:46:23Z</when>
+<when>2015-08-16T16:46:30Z</when>
+<when>2015-08-16T16:46:39Z</when>
+<when>2015-08-16T16:46:48Z</when>
+<when>2015-08-16T16:46:53Z</when>
+<when>2015-08-16T16:46:58Z</when>
+<when>2015-08-16T16:47:04Z</when>
+<when>2015-08-16T16:47:12Z</when>
+<when>2015-08-16T16:47:19Z</when>
+<when>2015-08-16T16:47:25Z</when>
+<when>2015-08-16T16:47:32Z</when>
+<when>2015-08-16T16:48:25Z</when>
+<when>2015-08-16T16:48:35Z</when>
+<when>2015-08-16T16:48:45Z</when>
+<when>2015-08-16T16:48:53Z</when>
+<when>2015-08-16T16:49:01Z</when>
+<when>2015-08-16T16:49:09Z</when>
+<when>2015-08-16T16:49:17Z</when>
+<when>2015-08-16T16:49:24Z</when>
+<when>2015-08-16T16:49:31Z</when>
+<when>2015-08-16T16:49:40Z</when>
+<when>2015-08-16T16:49:48Z</when>
+<when>2015-08-16T16:49:55Z</when>
+<when>2015-08-16T16:50:02Z</when>
+<when>2015-08-16T16:51:01Z</when>
+<when>2015-08-16T16:51:36Z</when>
+<when>2015-08-16T16:51:54Z</when>
+<when>2015-08-16T16:52:01Z</when>
+<when>2015-08-16T16:52:08Z</when>
+<when>2015-08-16T16:52:16Z</when>
+<when>2015-08-16T16:52:26Z</when>
+<when>2015-08-16T16:52:35Z</when>
+<when>2015-08-16T16:52:45Z</when>
+<when>2015-08-16T16:52:59Z</when>
+<when>2015-08-16T16:53:18Z</when>
+<when>2015-08-16T16:53:24Z</when>
+<when>2015-08-16T16:53:56Z</when>
+<when>2015-08-16T16:54:03Z</when>
+<when>2015-08-16T16:54:11Z</when>
+<when>2015-08-16T16:54:19Z</when>
+<when>2015-08-16T16:54:24Z</when>
+<when>2015-08-16T16:54:32Z</when>
+<when>2015-08-16T16:54:48Z</when>
+<when>2015-08-16T16:54:55Z</when>
+<when>2015-08-16T16:55:02Z</when>
+<when>2015-08-16T16:55:44Z</when>
+<when>2015-08-16T16:56:00Z</when>
+<when>2015-08-16T16:56:06Z</when>
+<when>2015-08-16T16:56:12Z</when>
+<when>2015-08-16T16:56:21Z</when>
+<when>2015-08-16T16:56:34Z</when>
+<when>2015-08-16T16:56:47Z</when>
+<when>2015-08-16T16:56:55Z</when>
+<when>2015-08-16T16:57:20Z</when>
+<when>2015-08-16T16:57:33Z</when>
+<when>2015-08-16T16:58:44Z</when>
+<when>2015-08-16T16:58:55Z</when>
+<when>2015-08-16T16:59:16Z</when>
+<when>2015-08-16T16:59:27Z</when>
+<when>2015-08-16T16:59:32Z</when>
+<when>2015-08-16T16:59:56Z</when>
+<when>2015-08-16T17:00:04Z</when>
+<when>2015-08-16T17:04:03Z</when>
+<when>2015-08-16T17:16:16Z</when>
+<when>2015-08-16T17:16:56Z</when>
+<when>2015-08-16T17:19:38Z</when>
+<when>2015-08-16T17:20:50Z</when>
+<when>2015-08-16T17:23:17Z</when>
+<when>2015-08-16T17:23:34Z</when>
+<when>2015-08-16T17:23:46Z</when>
+<when>2015-08-16T17:25:24Z</when>
+<when>2015-08-16T17:25:40Z</when>
+<when>2015-08-16T17:26:06Z</when>
+<when>2015-08-16T17:39:47Z</when>
+<when>2015-08-16T17:40:23Z</when>
+<when>2015-08-16T17:42:52Z</when>
+<when>2015-08-16T17:45:01Z</when>
+<when>2015-08-16T17:45:27Z</when>
+<when>2015-08-16T17:45:44Z</when>
+<when>2015-08-16T17:46:18Z</when>
+<when>2015-08-16T17:46:58Z</when>
+<when>2015-08-16T17:48:49Z</when>
+<when>2015-08-16T17:49:07Z</when>
+<when>2015-08-16T17:50:47Z</when>
+<when>2015-08-16T17:50:51Z</when>
+<when>2015-08-16T17:50:54Z</when>
+<when>2015-08-16T17:50:59Z</when>
+<when>2015-08-16T17:51:30Z</when>
+<when>2015-08-16T17:51:39Z</when>
+<when>2015-08-16T17:53:20Z</when>
+<when>2015-08-16T17:54:14Z</when>
+<when>2015-08-16T17:56:54Z</when>
+<when>2015-08-16T17:58:37Z</when>
+<when>2015-08-16T17:58:49Z</when>
+<when>2015-08-16T17:58:57Z</when>
+<when>2015-08-16T17:59:06Z</when>
+<when>2015-08-16T17:59:33Z</when>
+<when>2015-08-16T18:00:01Z</when>
+<when>2015-08-16T18:01:15Z</when>
+<when>2015-08-16T18:07:27Z</when>
+<when>2015-08-16T18:07:52Z</when>
+<when>2015-08-16T18:09:46Z</when>
+<when>2015-08-16T18:10:32Z</when>
+<when>2015-08-16T18:20:25Z</when>
+<when>2015-08-16T18:21:33Z</when>
+<when>2015-08-16T18:34:02Z</when>
+<when>2015-08-16T18:35:46Z</when>
+<when>2015-08-16T18:46:58Z</when>
+<when>2015-08-16T18:46:59Z</when>
+<when>2015-08-16T18:47:03Z</when>
+<when>2015-08-16T18:50:00Z</when>
+<when>2015-08-16T18:56:48Z</when>
+<when>2015-08-16T18:57:24Z</when>
+<when>2015-08-16T19:02:32Z</when>
+<when>2015-08-16T19:05:10Z</when>
+<when>2015-08-16T19:22:05Z</when>
+<when>2015-08-16T19:23:38Z</when>
+<when>2015-08-16T19:51:46Z</when>
+<when>2015-08-16T19:53:33Z</when>
+<when>2015-08-16T20:02:32Z</when>
+<when>2015-08-16T20:08:33Z</when>
+<when>2015-08-16T20:17:03Z</when>
+<when>2015-08-16T20:20:26Z</when>
+<when>2015-08-16T20:21:17Z</when>
+<when>2015-08-16T20:22:47Z</when>
+<when>2015-08-16T20:24:08Z</when>
+<when>2015-08-16T20:27:34Z</when>
+<when>2015-08-16T20:29:10Z</when>
+<when>2015-08-16T20:30:00Z</when>
+<when>2015-08-16T20:31:51Z</when>
+<when>2015-08-16T20:33:48Z</when>
+<when>2015-08-16T20:35:13Z</when>
+<when>2015-08-16T20:36:11Z</when>
+<when>2015-08-16T20:40:03Z</when>
+<when>2015-08-16T20:45:32Z</when>
+<when>2015-08-16T20:47:15Z</when>
+<when>2015-08-16T21:05:29Z</when>
+<when>2015-08-16T21:06:39Z</when>
+<when>2015-08-16T21:11:15Z</when>
+<when>2015-08-16T21:17:30Z</when>
+<when>2015-08-16T21:18:45Z</when>
+<when>2015-08-16T21:32:55Z</when>
+<when>2015-08-16T21:37:42Z</when>
+<when>2015-08-16T21:42:56Z</when>
+<when>2015-08-16T21:44:55Z</when>
+<when>2015-08-16T21:45:45Z</when>
+<when>2015-08-16T21:51:23Z</when>
+<when>2015-08-16T21:51:50Z</when>
+<when>2015-08-16T21:56:31Z</when>
+<when>2015-08-16T21:58:13Z</when>
+<when>2015-08-16T21:59:19Z</when>
+<when>2015-08-16T21:59:31Z</when>
+<when>2015-08-16T21:59:54Z</when>
+<when>2015-08-16T22:01:16Z</when>
+<when>2015-08-16T22:02:27Z</when>
+<when>2015-08-16T22:04:05Z</when>
+<when>2015-08-16T22:07:15Z</when>
+<when>2015-08-16T22:07:39Z</when>
+<when>2015-08-16T22:13:31Z</when>
+<when>2015-08-16T22:22:52Z</when>
+<when>2015-08-16T22:24:51Z</when>
+<when>2015-08-16T22:28:28Z</when>
+<when>2015-08-16T22:28:59Z</when>
+<when>2015-08-16T22:57:10Z</when>
+<when>2015-08-16T22:58:19Z</when>
+<when>2015-08-16T23:05:31Z</when>
+<when>2015-08-16T23:06:22Z</when>
+<when>2015-08-16T23:06:53Z</when>
+<when>2015-08-16T23:06:59Z</when>
+<when>2015-08-16T23:08:19Z</when>
+<when>2015-08-16T23:10:41Z</when>
+<when>2015-08-16T23:10:51Z</when>
+<when>2015-08-16T23:10:59Z</when>
+<when>2015-08-16T23:11:12Z</when>
+<when>2015-08-16T23:11:17Z</when>
+<when>2015-08-16T23:11:31Z</when>
+<when>2015-08-16T23:11:51Z</when>
+<when>2015-08-16T23:11:58Z</when>
+<when>2015-08-16T23:12:52Z</when>
+<when>2015-08-16T23:13:32Z</when>
+<when>2015-08-16T23:13:51Z</when>
+<when>2015-08-16T23:14:55Z</when>
+<when>2015-08-16T23:15:35Z</when>
+<when>2015-08-16T23:18:59Z</when>
+<when>2015-08-16T23:19:46Z</when>
+<when>2015-08-16T23:20:07Z</when>
+<when>2015-08-16T23:22:34Z</when>
+<when>2015-08-16T23:26:21Z</when>
+<when>2015-08-16T23:45:56Z</when>
+<when>2015-08-16T23:47:00Z</when>
+<when>2015-08-16T23:47:58Z</when>
+<when>2015-08-16T23:48:24Z</when>
+<when>2015-08-16T23:48:44Z</when>
+<when>2015-08-16T23:49:52Z</when>
+<when>2015-08-16T23:50:08Z</when>
+<when>2015-08-16T23:50:13Z</when>
+<when>2015-08-16T23:50:46Z</when>
+<when>2015-08-16T23:50:57Z</when>
+<when>2015-08-17T00:01:25Z</when>
+<when>2015-08-17T00:03:25Z</when>
+<when>2015-08-17T00:06:28Z</when>
+<when>2015-08-17T00:08:06Z</when>
+<when>2015-08-17T00:08:20Z</when>
+<when>2015-08-17T00:08:50Z</when>
+<when>2015-08-17T00:08:59Z</when>
+<when>2015-08-17T00:41:45Z</when>
+<when>2015-08-17T00:43:08Z</when>
+<when>2015-08-17T00:45:06Z</when>
+<when>2015-08-17T00:48:26Z</when>
+<when>2015-08-17T00:48:55Z</when>
+<when>2015-08-17T00:51:21Z</when>
+<when>2015-08-17T00:51:39Z</when>
+<when>2015-08-17T01:54:49Z</when>
+<when>2015-08-17T01:56:15Z</when>
+<when>2015-08-17T02:06:23Z</when>
+<when>2015-08-17T02:25:30Z</when>
+<when>2015-08-17T02:26:12Z</when>
+<when>2015-08-17T02:27:48Z</when>
+<when>2015-08-17T02:28:02Z</when>
+<when>2015-08-17T02:31:37Z</when>
+<when>2015-08-17T02:31:55Z</when>
+<when>2015-08-17T02:34:28Z</when>
+<when>2015-08-17T02:36:05Z</when>
+<when>2015-08-17T02:38:22Z</when>
+<when>2015-08-17T02:38:26Z</when>
+<when>2015-08-17T02:38:29Z</when>
+<when>2015-08-17T02:39:47Z</when>
+<when>2015-08-17T02:42:30Z</when>
+<when>2015-08-17T02:44:48Z</when>
+<when>2015-08-17T02:47:20Z</when>
+<when>2015-08-17T02:47:59Z</when>
+<when>2015-08-17T02:50:19Z</when>
+<when>2015-08-17T02:50:50Z</when>
+<when>2015-08-17T02:51:45Z</when>
+<when>2015-08-17T02:52:25Z</when>
+<when>2015-08-17T02:53:07Z</when>
+<when>2015-08-17T02:54:52Z</when>
+<when>2015-08-17T02:55:37Z</when>
+<when>2015-08-17T02:56:24Z</when>
+<when>2015-08-17T02:57:09Z</when>
+<when>2015-08-17T02:58:28Z</when>
+<when>2015-08-17T02:59:31Z</when>
+<when>2015-08-17T03:00:27Z</when>
+<when>2015-08-17T03:03:55Z</when>
+<when>2015-08-17T03:04:05Z</when>
+<when>2015-08-17T03:04:10Z</when>
+<when>2015-08-17T03:04:25Z</when>
+<when>2015-08-17T03:04:31Z</when>
+<when>2015-08-17T03:04:53Z</when>
+<when>2015-08-17T03:05:10Z</when>
+<when>2015-08-17T03:06:06Z</when>
+<when>2015-08-17T03:09:00Z</when>
+<when>2015-08-17T03:09:20Z</when>
+<when>2015-08-17T03:17:34Z</when>
+<when>2015-08-17T03:30:41Z</when>
+<when>2015-08-17T03:36:19Z</when>
+<when>2015-08-17T04:18:31Z</when>
+<when>2015-08-17T04:41:19Z</when>
+<when>2015-08-17T04:49:10Z</when>
+<when>2015-08-17T04:49:21Z</when>
+<when>2015-08-17T04:49:32Z</when>
+<when>2015-08-17T04:49:43Z</when>
+<when>2015-08-17T04:49:55Z</when>
+<when>2015-08-17T04:50:07Z</when>
+<when>2015-08-17T04:50:17Z</when>
+<when>2015-08-17T04:50:49Z</when>
+<when>2015-08-17T04:51:00Z</when>
+<when>2015-08-17T04:53:35Z</when>
+<when>2015-08-17T04:53:44Z</when>
+<when>2015-08-17T04:53:51Z</when>
+<when>2015-08-17T04:53:59Z</when>
+<when>2015-08-17T04:54:06Z</when>
+<when>2015-08-17T04:54:12Z</when>
+<when>2015-08-17T04:54:20Z</when>
+<when>2015-08-17T04:54:28Z</when>
+<when>2015-08-17T04:54:36Z</when>
+<when>2015-08-17T04:54:45Z</when>
+<when>2015-08-17T04:54:52Z</when>
+<when>2015-08-17T04:54:59Z</when>
+<when>2015-08-17T04:55:06Z</when>
+<when>2015-08-17T04:55:14Z</when>
+<when>2015-08-17T04:55:22Z</when>
+<when>2015-08-17T04:55:28Z</when>
+<when>2015-08-17T04:55:35Z</when>
+<when>2015-08-17T04:55:45Z</when>
+<when>2015-08-17T04:57:52Z</when>
+<when>2015-08-17T04:58:03Z</when>
+<when>2015-08-17T04:58:13Z</when>
+<when>2015-08-17T04:58:19Z</when>
+<when>2015-08-17T04:58:30Z</when>
+<when>2015-08-17T04:58:58Z</when>
+<when>2015-08-17T04:59:05Z</when>
+<when>2015-08-17T04:59:15Z</when>
+<when>2015-08-17T04:59:23Z</when>
+<when>2015-08-17T04:59:31Z</when>
+<when>2015-08-17T04:59:39Z</when>
+<when>2015-08-17T04:59:47Z</when>
+<when>2015-08-17T04:59:55Z</when>
+<when>2015-08-17T05:00:04Z</when>
+<when>2015-08-17T05:00:11Z</when>
+<when>2015-08-17T05:00:17Z</when>
+<when>2015-08-17T05:00:25Z</when>
+<when>2015-08-17T05:00:32Z</when>
+<when>2015-08-17T05:00:40Z</when>
+<when>2015-08-17T05:00:48Z</when>
+<when>2015-08-17T05:00:55Z</when>
+<when>2015-08-17T05:01:02Z</when>
+<when>2015-08-17T05:01:11Z</when>
+<when>2015-08-17T05:01:18Z</when>
+<when>2015-08-17T05:01:25Z</when>
+<when>2015-08-17T05:01:33Z</when>
+<when>2015-08-17T05:01:41Z</when>
+<when>2015-08-17T05:01:48Z</when>
+<when>2015-08-17T05:01:55Z</when>
+<when>2015-08-17T05:02:05Z</when>
+<when>2015-08-17T05:02:17Z</when>
+<when>2015-08-17T05:02:25Z</when>
+<when>2015-08-17T05:02:33Z</when>
+<when>2015-08-17T05:02:40Z</when>
+<when>2015-08-17T05:02:46Z</when>
+<when>2015-08-17T05:02:54Z</when>
+<when>2015-08-17T05:03:02Z</when>
+<when>2015-08-17T05:03:10Z</when>
+<when>2015-08-17T05:03:17Z</when>
+<when>2015-08-17T05:03:25Z</when>
+<when>2015-08-17T05:03:32Z</when>
+<when>2015-08-17T05:03:41Z</when>
+<when>2015-08-17T05:03:47Z</when>
+<when>2015-08-17T05:03:55Z</when>
+<when>2015-08-17T05:04:02Z</when>
+<when>2015-08-17T05:04:10Z</when>
+<when>2015-08-17T05:04:17Z</when>
+<when>2015-08-17T05:04:31Z</when>
+<when>2015-08-17T05:04:40Z</when>
+<when>2015-08-17T05:04:48Z</when>
+<when>2015-08-17T05:04:56Z</when>
+<when>2015-08-17T05:05:04Z</when>
+<when>2015-08-17T05:05:11Z</when>
+<when>2015-08-17T05:05:21Z</when>
+<when>2015-08-17T05:05:29Z</when>
+<when>2015-08-17T05:05:37Z</when>
+<when>2015-08-17T05:05:54Z</when>
+<when>2015-08-17T05:06:05Z</when>
+<when>2015-08-17T05:06:13Z</when>
+<when>2015-08-17T05:06:21Z</when>
+<when>2015-08-17T05:06:28Z</when>
+<when>2015-08-17T05:06:36Z</when>
+<when>2015-08-17T05:06:42Z</when>
+<when>2015-08-17T05:06:48Z</when>
+<when>2015-08-17T05:06:58Z</when>
+<when>2015-08-17T05:07:05Z</when>
+<when>2015-08-17T05:07:13Z</when>
+<when>2015-08-17T05:07:20Z</when>
+<when>2015-08-17T05:07:27Z</when>
+<when>2015-08-17T05:07:35Z</when>
+<when>2015-08-17T05:07:41Z</when>
+<when>2015-08-17T05:07:48Z</when>
+<when>2015-08-17T05:07:57Z</when>
+<when>2015-08-17T05:08:06Z</when>
+<when>2015-08-17T05:08:14Z</when>
+<when>2015-08-17T05:08:20Z</when>
+<when>2015-08-17T05:08:27Z</when>
+<when>2015-08-17T05:08:35Z</when>
+<when>2015-08-17T05:08:43Z</when>
+<when>2015-08-17T05:08:49Z</when>
+<when>2015-08-17T05:08:57Z</when>
+<when>2015-08-17T05:09:04Z</when>
+<when>2015-08-17T05:09:11Z</when>
+<when>2015-08-17T05:09:20Z</when>
+<when>2015-08-17T05:09:28Z</when>
+<when>2015-08-17T05:09:37Z</when>
+<when>2015-08-17T05:09:44Z</when>
+<when>2015-08-17T05:09:52Z</when>
+<when>2015-08-17T05:10:04Z</when>
+<when>2015-08-17T05:10:36Z</when>
+<when>2015-08-17T05:11:09Z</when>
+<when>2015-08-17T05:11:19Z</when>
+<when>2015-08-17T05:11:26Z</when>
+<when>2015-08-17T05:11:32Z</when>
+<when>2015-08-17T05:11:40Z</when>
+<when>2015-08-17T05:11:45Z</when>
+<when>2015-08-17T05:11:53Z</when>
+<when>2015-08-17T05:12:00Z</when>
+<when>2015-08-17T05:12:06Z</when>
+<when>2015-08-17T05:12:12Z</when>
+<when>2015-08-17T05:12:18Z</when>
+<when>2015-08-17T05:12:24Z</when>
+<when>2015-08-17T05:12:32Z</when>
+<when>2015-08-17T05:12:39Z</when>
+<when>2015-08-17T05:12:45Z</when>
+<when>2015-08-17T05:12:51Z</when>
+<when>2015-08-17T05:12:58Z</when>
+<when>2015-08-17T05:13:04Z</when>
+<when>2015-08-17T05:13:11Z</when>
+<when>2015-08-17T05:13:16Z</when>
+<when>2015-08-17T05:13:24Z</when>
+<when>2015-08-17T05:13:29Z</when>
+<when>2015-08-17T05:13:36Z</when>
+<when>2015-08-17T05:13:41Z</when>
+<when>2015-08-17T05:13:49Z</when>
+<when>2015-08-17T05:13:57Z</when>
+<when>2015-08-17T05:14:03Z</when>
+<when>2015-08-17T05:14:10Z</when>
+<when>2015-08-17T05:14:18Z</when>
+<when>2015-08-17T05:14:24Z</when>
+<when>2015-08-17T05:14:33Z</when>
+<when>2015-08-17T05:14:39Z</when>
+<when>2015-08-17T05:14:47Z</when>
+<when>2015-08-17T05:14:56Z</when>
+<when>2015-08-17T05:15:03Z</when>
+<when>2015-08-17T05:15:10Z</when>
+<when>2015-08-17T05:15:17Z</when>
+<when>2015-08-17T05:15:23Z</when>
+<when>2015-08-17T05:15:30Z</when>
+<when>2015-08-17T05:15:39Z</when>
+<when>2015-08-17T05:15:47Z</when>
+<when>2015-08-17T05:15:55Z</when>
+<when>2015-08-17T05:16:01Z</when>
+<when>2015-08-17T05:16:09Z</when>
+<when>2015-08-17T05:16:16Z</when>
+<when>2015-08-17T05:16:23Z</when>
+<when>2015-08-17T05:16:30Z</when>
+<when>2015-08-17T05:16:37Z</when>
+<when>2015-08-17T05:16:45Z</when>
+<when>2015-08-17T05:16:53Z</when>
+<when>2015-08-17T05:17:03Z</when>
+<when>2015-08-17T05:17:15Z</when>
+<when>2015-08-17T05:21:05Z</when>
+<when>2015-08-17T05:21:15Z</when>
+<when>2015-08-17T05:21:20Z</when>
+<when>2015-08-17T05:21:34Z</when>
+<when>2015-08-17T05:23:16Z</when>
+<when>2015-08-17T05:23:45Z</when>
+<when>2015-08-17T05:23:50Z</when>
+<when>2015-08-17T05:24:01Z</when>
+<when>2015-08-17T05:24:14Z</when>
+<when>2015-08-17T05:24:27Z</when>
+<when>2015-08-17T05:25:09Z</when>
+<when>2015-08-17T05:25:22Z</when>
+<when>2015-08-17T05:25:33Z</when>
+<when>2015-08-17T05:26:23Z</when>
+<when>2015-08-17T05:26:55Z</when>
+<when>2015-08-17T05:27:28Z</when>
+<when>2015-08-17T05:27:52Z</when>
+<when>2015-08-17T05:28:28Z</when>
+<when>2015-08-17T05:30:38Z</when>
+<when>2015-08-17T05:31:58Z</when>
+<when>2015-08-17T05:32:20Z</when>
+<when>2015-08-17T05:32:32Z</when>
+<when>2015-08-17T05:33:16Z</when>
+<when>2015-08-17T05:33:40Z</when>
+<when>2015-08-17T05:33:54Z</when>
+<when>2015-08-17T05:34:03Z</when>
+<when>2015-08-17T05:34:14Z</when>
+<when>2015-08-17T05:35:00Z</when>
+<when>2015-08-17T05:35:08Z</when>
+<when>2015-08-17T05:35:21Z</when>
+<when>2015-08-17T05:35:50Z</when>
+<when>2015-08-17T05:37:06Z</when>
+<when>2015-08-17T05:37:45Z</when>
+<when>2015-08-17T05:38:08Z</when>
+<when>2015-08-17T05:38:19Z</when>
+<when>2015-08-17T05:38:44Z</when>
+<when>2015-08-17T05:39:35Z</when>
+<when>2015-08-17T05:41:11Z</when>
+<when>2015-08-17T05:41:26Z</when>
+<when>2015-08-17T05:41:37Z</when>
+<when>2015-08-17T05:41:40Z</when>
+<when>2015-08-17T05:42:05Z</when>
+<when>2015-08-17T05:42:21Z</when>
+<when>2015-08-17T05:43:26Z</when>
+<when>2015-08-17T05:43:45Z</when>
+<when>2015-08-17T05:45:40Z</when>
+<when>2015-08-17T05:45:59Z</when>
+<when>2015-08-17T05:47:14Z</when>
+<when>2015-08-17T05:48:00Z</when>
+<when>2015-08-17T05:48:01Z</when>
+<when>2015-08-17T05:48:04Z</when>
+<when>2015-08-17T05:50:25Z</when>
+<when>2015-08-17T05:51:20Z</when>
+<when>2015-08-17T05:51:59Z</when>
+<when>2015-08-17T05:52:51Z</when>
+<when>2015-08-17T05:53:13Z</when>
+<when>2015-08-17T05:53:51Z</when>
+<when>2015-08-17T05:56:02Z</when>
+<when>2015-08-17T05:56:20Z</when>
+<when>2015-08-17T05:56:45Z</when>
+<when>2015-08-17T05:57:01Z</when>
+<when>2015-08-17T05:57:16Z</when>
+<when>2015-08-17T05:58:15Z</when>
+<when>2015-08-17T06:00:29Z</when>
+<when>2015-08-17T06:01:03Z</when>
+<when>2015-08-17T06:03:04Z</when>
+<when>2015-08-17T06:03:30Z</when>
+<when>2015-08-17T06:04:23Z</when>
+<when>2015-08-17T06:05:07Z</when>
+<when>2015-08-17T06:05:35Z</when>
+<when>2015-08-17T06:05:53Z</when>
+<when>2015-08-17T06:06:09Z</when>
+<when>2015-08-17T06:06:39Z</when>
+<when>2015-08-17T06:06:48Z</when>
+<when>2015-08-17T06:07:11Z</when>
+<when>2015-08-17T06:09:41Z</when>
+<when>2015-08-17T06:10:56Z</when>
+<when>2015-08-17T06:13:14Z</when>
+<when>2015-08-17T06:13:40Z</when>
+<when>2015-08-17T06:14:13Z</when>
+<when>2015-08-17T06:15:55Z</when>
+<when>2015-08-17T06:17:30Z</when>
+<when>2015-08-17T06:18:29Z</when>
+<when>2015-08-17T06:23:15Z</when>
+<when>2015-08-17T06:25:55Z</when>
+<when>2015-08-17T06:27:17Z</when>
+<when>2015-08-17T06:28:02Z</when>
+<when>2015-08-17T06:28:16Z</when>
+<when>2015-08-17T06:30:04Z</when>
+<when>2015-08-17T06:30:22Z</when>
+<when>2015-08-17T06:30:51Z</when>
+<when>2015-08-17T06:33:44Z</when>
+<when>2015-08-17T06:34:07Z</when>
+<when>2015-08-17T06:34:19Z</when>
+<when>2015-08-17T06:35:00Z</when>
+<when>2015-08-17T06:36:48Z</when>
+<when>2015-08-17T06:39:55Z</when>
+<when>2015-08-17T06:40:33Z</when>
+<when>2015-08-17T06:41:37Z</when>
+<when>2015-08-17T06:41:57Z</when>
+<when>2015-08-17T06:43:16Z</when>
+<when>2015-08-17T06:50:00Z</when>
+<when>2015-08-17T06:50:18Z</when>
+<when>2015-08-17T06:50:50Z</when>
+<when>2015-08-17T06:51:43Z</when>
+<when>2015-08-17T06:51:59Z</when>
+<when>2015-08-17T06:52:21Z</when>
+<when>2015-08-17T06:52:33Z</when>
+<when>2015-08-17T06:52:55Z</when>
+<when>2015-08-17T06:53:26Z</when>
+<when>2015-08-17T06:54:15Z</when>
+<when>2015-08-17T06:54:34Z</when>
+<when>2015-08-17T06:54:56Z</when>
+<when>2015-08-17T06:55:12Z</when>
+<when>2015-08-17T06:55:22Z</when>
+<when>2015-08-17T06:56:06Z</when>
+<when>2015-08-17T06:56:21Z</when>
+<when>2015-08-17T06:56:33Z</when>
+<when>2015-08-17T06:57:00Z</when>
+<when>2015-08-17T06:57:20Z</when>
+<when>2015-08-17T06:57:34Z</when>
+<when>2015-08-17T06:57:58Z</when>
+<when>2015-08-17T06:58:39Z</when>
+<when>2015-08-17T06:58:45Z</when>
+<when>2015-08-17T06:58:55Z</when>
+<when>2015-08-17T06:59:11Z</when>
+<when>2015-08-17T06:59:36Z</when>
+<when>2015-08-17T06:59:49Z</when>
+<when>2015-08-17T07:00:10Z</when>
+<when>2015-08-17T07:00:57Z</when>
+<when>2015-08-17T07:01:06Z</when>
+<when>2015-08-17T07:01:17Z</when>
+<when>2015-08-17T07:01:35Z</when>
+<when>2015-08-17T07:01:59Z</when>
+<when>2015-08-17T07:02:38Z</when>
+<when>2015-08-17T07:03:06Z</when>
+<when>2015-08-17T07:03:42Z</when>
+<when>2015-08-17T07:04:10Z</when>
+<when>2015-08-17T07:04:16Z</when>
+<when>2015-08-17T07:04:29Z</when>
+<when>2015-08-17T07:07:12Z</when>
+<when>2015-08-17T07:07:35Z</when>
+<when>2015-08-17T07:09:20Z</when>
+<when>2015-08-17T07:09:39Z</when>
+<when>2015-08-17T07:10:01Z</when>
+<when>2015-08-17T07:10:43Z</when>
+<when>2015-08-17T07:11:13Z</when>
+<when>2015-08-17T07:11:50Z</when>
+<when>2015-08-17T07:12:41Z</when>
+<when>2015-08-17T07:13:24Z</when>
+<when>2015-08-17T07:13:35Z</when>
+<when>2015-08-17T07:15:16Z</when>
+<when>2015-08-17T07:16:26Z</when>
+<when>2015-08-17T07:16:39Z</when>
+<when>2015-08-17T07:19:19Z</when>
+<when>2015-08-17T07:19:32Z</when>
+<when>2015-08-17T07:19:43Z</when>
+<when>2015-08-17T07:20:54Z</when>
+<when>2015-08-17T07:22:13Z</when>
+<when>2015-08-17T08:04:32Z</when>
+<when>2015-08-17T08:11:01Z</when>
+<when>2015-08-17T08:29:15Z</when>
+<when>2015-08-17T08:49:27Z</when>
+<when>2015-08-17T09:14:31Z</when>
+<when>2015-08-17T09:17:06Z</when>
+<when>2015-08-17T09:17:21Z</when>
+<when>2015-08-17T09:17:58Z</when>
+<when>2015-08-17T09:18:08Z</when>
+<when>2015-08-17T09:18:25Z</when>
+<when>2015-08-17T09:18:56Z</when>
+<when>2015-08-17T09:19:12Z</when>
+<when>2015-08-17T09:19:29Z</when>
+<when>2015-08-17T09:19:39Z</when>
+<when>2015-08-17T09:19:50Z</when>
+<when>2015-08-17T09:20:16Z</when>
+<when>2015-08-17T09:20:26Z</when>
+<when>2015-08-17T09:20:38Z</when>
+<when>2015-08-17T09:20:46Z</when>
+<when>2015-08-17T09:20:54Z</when>
+<when>2015-08-17T09:21:51Z</when>
+<when>2015-08-17T09:22:40Z</when>
+<when>2015-08-17T09:24:10Z</when>
+<when>2015-08-17T09:24:38Z</when>
+<when>2015-08-17T09:25:19Z</when>
+<when>2015-08-17T09:26:34Z</when>
+<when>2015-08-17T09:27:14Z</when>
+<when>2015-08-17T09:27:59Z</when>
+<when>2015-08-17T09:29:12Z</when>
+<when>2015-08-17T09:30:10Z</when>
+<when>2015-08-17T09:30:56Z</when>
+<when>2015-08-17T09:31:59Z</when>
+<when>2015-08-17T09:32:58Z</when>
+<when>2015-08-17T09:33:18Z</when>
+<when>2015-08-17T09:33:53Z</when>
+<when>2015-08-17T09:35:06Z</when>
+<when>2015-08-17T09:36:10Z</when>
+<when>2015-08-17T09:36:31Z</when>
+<when>2015-08-17T09:37:45Z</when>
+<when>2015-08-17T09:38:23Z</when>
+<when>2015-08-17T09:38:36Z</when>
+<when>2015-08-17T09:39:52Z</when>
+<when>2015-08-17T09:40:14Z</when>
+<when>2015-08-17T09:40:45Z</when>
+<when>2015-08-17T09:41:48Z</when>
+<when>2015-08-17T09:42:22Z</when>
+<when>2015-08-17T09:42:46Z</when>
+<when>2015-08-17T09:43:33Z</when>
+<when>2015-08-17T09:44:11Z</when>
+<when>2015-08-17T09:44:32Z</when>
+<when>2015-08-17T09:44:55Z</when>
+<when>2015-08-17T09:45:14Z</when>
+<when>2015-08-17T09:46:18Z</when>
+<when>2015-08-17T09:47:17Z</when>
+<when>2015-08-17T09:47:40Z</when>
+<when>2015-08-17T09:48:11Z</when>
+<when>2015-08-17T09:48:39Z</when>
+<when>2015-08-17T09:49:26Z</when>
+<when>2015-08-17T09:50:05Z</when>
+<when>2015-08-17T09:50:50Z</when>
+<when>2015-08-17T09:51:35Z</when>
+<when>2015-08-17T09:52:23Z</when>
+<when>2015-08-17T09:52:53Z</when>
+<when>2015-08-17T09:53:39Z</when>
+<when>2015-08-17T09:54:32Z</when>
+<when>2015-08-17T09:56:10Z</when>
+<when>2015-08-17T09:56:30Z</when>
+<when>2015-08-17T09:56:51Z</when>
+<when>2015-08-17T09:57:12Z</when>
+<when>2015-08-17T09:57:48Z</when>
+<when>2015-08-17T09:58:21Z</when>
+<when>2015-08-17T09:59:31Z</when>
+<when>2015-08-17T09:59:52Z</when>
+<when>2015-08-17T10:00:00Z</when>
+<when>2015-08-17T10:00:13Z</when>
+<when>2015-08-17T10:00:19Z</when>
+<when>2015-08-17T10:00:26Z</when>
+<when>2015-08-17T10:00:35Z</when>
+<when>2015-08-17T10:00:52Z</when>
+<when>2015-08-17T10:01:09Z</when>
+<when>2015-08-17T10:01:20Z</when>
+<when>2015-08-17T10:01:31Z</when>
+<when>2015-08-17T10:01:43Z</when>
+<when>2015-08-17T10:01:56Z</when>
+<when>2015-08-17T10:02:18Z</when>
+<when>2015-08-17T10:03:02Z</when>
+<when>2015-08-17T10:04:05Z</when>
+<when>2015-08-17T10:04:41Z</when>
+<when>2015-08-17T10:05:00Z</when>
+<when>2015-08-17T10:05:14Z</when>
+<when>2015-08-17T10:06:36Z</when>
+<when>2015-08-17T10:07:02Z</when>
+<when>2015-08-17T10:07:52Z</when>
+<when>2015-08-17T10:08:39Z</when>
+<when>2015-08-17T10:09:07Z</when>
+<when>2015-08-17T10:09:25Z</when>
+<when>2015-08-17T10:09:49Z</when>
+<when>2015-08-17T10:10:05Z</when>
+<when>2015-08-17T10:10:19Z</when>
+<when>2015-08-17T10:10:34Z</when>
+<when>2015-08-17T10:10:51Z</when>
+<when>2015-08-17T10:11:59Z</when>
+<when>2015-08-17T10:12:12Z</when>
+<when>2015-08-17T10:12:26Z</when>
+<when>2015-08-17T10:12:43Z</when>
+<when>2015-08-17T10:13:07Z</when>
+<when>2015-08-17T10:13:38Z</when>
+<when>2015-08-17T10:14:41Z</when>
+<when>2015-08-17T10:15:01Z</when>
+<when>2015-08-17T10:15:15Z</when>
+<when>2015-08-17T10:15:37Z</when>
+<when>2015-08-17T10:15:56Z</when>
+<when>2015-08-17T10:16:06Z</when>
+<when>2015-08-17T10:16:14Z</when>
+<when>2015-08-17T10:16:26Z</when>
+<when>2015-08-17T10:16:49Z</when>
+<when>2015-08-17T10:17:00Z</when>
+<when>2015-08-17T10:17:39Z</when>
+<when>2015-08-17T10:17:54Z</when>
+<when>2015-08-17T10:18:06Z</when>
+<gx:coord>57.6955767 54.1258167 408.54</gx:coord>
+<gx:coord>57.6954500 54.1259117 397.09</gx:coord>
+<gx:coord>57.6953300 54.1259800 393.81</gx:coord>
+<gx:coord>57.6952350 54.1260533 393.83</gx:coord>
+<gx:coord>57.6951317 54.1261400 393.03</gx:coord>
+<gx:coord>57.6950250 54.1262050 393.96</gx:coord>
+<gx:coord>57.6948933 54.1262700 395.33</gx:coord>
+<gx:coord>57.6948050 54.1263500 395.85</gx:coord>
+<gx:coord>57.6947050 54.1264233 395.84</gx:coord>
+<gx:coord>57.6945817 54.1264800 395.92</gx:coord>
+<gx:coord>57.6944783 54.1265500 396.03</gx:coord>
+<gx:coord>57.6943767 54.1266200 395.91</gx:coord>
+<gx:coord>57.6942533 54.1266817 392.59</gx:coord>
+<gx:coord>57.6941700 54.1267683 391.41</gx:coord>
+<gx:coord>57.6940667 54.1268467 390.73</gx:coord>
+<gx:coord>57.6939700 54.1269367 389.74</gx:coord>
+<gx:coord>57.6938733 54.1270200 387.24</gx:coord>
+<gx:coord>57.6937700 54.1270967 386.44</gx:coord>
+<gx:coord>57.6936867 54.1271800 386.62</gx:coord>
+<gx:coord>57.6935800 54.1272600 386.99</gx:coord>
+<gx:coord>57.6935117 54.1273433 386.60</gx:coord>
+<gx:coord>57.6934200 54.1274333 385.88</gx:coord>
+<gx:coord>57.6933567 54.1275217 385.76</gx:coord>
+<gx:coord>57.6932650 54.1276017 385.65</gx:coord>
+<gx:coord>57.6931733 54.1276950 384.95</gx:coord>
+<gx:coord>57.6931100 54.1277833 384.63</gx:coord>
+<gx:coord>57.6930150 54.1278750 385.34</gx:coord>
+<gx:coord>57.6929533 54.1279733 385.51</gx:coord>
+<gx:coord>57.6928733 54.1280617 385.31</gx:coord>
+<gx:coord>57.6928167 54.1281483 384.91</gx:coord>
+<gx:coord>57.6927517 54.1282350 384.56</gx:coord>
+<gx:coord>57.6926983 54.1283283 383.77</gx:coord>
+<gx:coord>57.6926350 54.1284117 383.25</gx:coord>
+<gx:coord>57.6925700 54.1285017 382.94</gx:coord>
+<gx:coord>57.6925200 54.1285933 382.39</gx:coord>
+<gx:coord>57.6924717 54.1286883 381.72</gx:coord>
+<gx:coord>57.6924033 54.1287817 381.09</gx:coord>
+<gx:coord>57.6923567 54.1288683 380.41</gx:coord>
+<gx:coord>57.6923083 54.1289700 379.73</gx:coord>
+<gx:coord>57.6922633 54.1290583 379.72</gx:coord>
+<gx:coord>57.6922333 54.1291500 380.05</gx:coord>
+<gx:coord>57.6921783 54.1292367 380.04</gx:coord>
+<gx:coord>57.6921417 54.1293333 380.54</gx:coord>
+<gx:coord>57.6920900 54.1294283 380.60</gx:coord>
+<gx:coord>57.6920650 54.1295183 381.21</gx:coord>
+<gx:coord>57.6920200 54.1296067 381.15</gx:coord>
+<gx:coord>57.6919917 54.1297000 380.98</gx:coord>
+<gx:coord>57.6919500 54.1297900 381.64</gx:coord>
+<gx:coord>57.6919233 54.1298867 381.92</gx:coord>
+<gx:coord>57.6918800 54.1299750 382.46</gx:coord>
+<gx:coord>57.6918633 54.1300783 383.85</gx:coord>
+<gx:coord>57.6918117 54.1301717 384.72</gx:coord>
+<gx:coord>57.6917517 54.1302633 385.73</gx:coord>
+<gx:coord>57.6917100 54.1303783 386.52</gx:coord>
+<gx:coord>57.6916700 54.1304750 387.05</gx:coord>
+<gx:coord>57.6916150 54.1305600 387.34</gx:coord>
+<gx:coord>57.6915600 54.1306517 387.80</gx:coord>
+<gx:coord>57.6914983 54.1307383 388.06</gx:coord>
+<gx:coord>57.6914683 54.1308300 387.70</gx:coord>
+<gx:coord>57.6914250 54.1309183 387.09</gx:coord>
+<gx:coord>57.6913867 54.1310150 387.01</gx:coord>
+<gx:coord>57.6913483 54.1311050 386.62</gx:coord>
+<gx:coord>57.6912967 54.1311917 386.35</gx:coord>
+<gx:coord>57.6912550 54.1312867 386.31</gx:coord>
+<gx:coord>57.6912133 54.1313883 386.01</gx:coord>
+<gx:coord>57.6911883 54.1314850 386.02</gx:coord>
+<gx:coord>57.6911300 54.1315683 385.69</gx:coord>
+<gx:coord>57.6911050 54.1316633 385.74</gx:coord>
+<gx:coord>57.6910783 54.1317533 385.64</gx:coord>
+<gx:coord>57.6910283 54.1318483 385.87</gx:coord>
+<gx:coord>57.6910350 54.1319400 385.73</gx:coord>
+<gx:coord>57.6910183 54.1320400 386.01</gx:coord>
+<gx:coord>57.6909883 54.1321400 386.41</gx:coord>
+<gx:coord>57.6909383 54.1322300 386.39</gx:coord>
+<gx:coord>57.6909317 54.1323300 386.66</gx:coord>
+<gx:coord>57.6909050 54.1324300 386.87</gx:coord>
+<gx:coord>57.6908650 54.1325300 386.34</gx:coord>
+<gx:coord>57.6908500 54.1326233 386.49</gx:coord>
+<gx:coord>57.6908150 54.1327200 386.72</gx:coord>
+<gx:coord>57.6907750 54.1328133 386.32</gx:coord>
+<gx:coord>57.6907833 54.1329033 385.36</gx:coord>
+<gx:coord>57.6907667 54.1330067 383.08</gx:coord>
+<gx:coord>57.6907733 54.1331033 381.76</gx:coord>
+<gx:coord>57.6907517 54.1331933 381.10</gx:coord>
+<gx:coord>57.6907500 54.1332933 380.89</gx:coord>
+<gx:coord>57.6907483 54.1333933 382.22</gx:coord>
+<gx:coord>57.6907700 54.1334883 383.35</gx:coord>
+<gx:coord>57.6907867 54.1335883 383.11</gx:coord>
+<gx:coord>57.6907650 54.1336783 381.88</gx:coord>
+<gx:coord>57.6907717 54.1337750 382.44</gx:coord>
+<gx:coord>57.6907833 54.1338767 383.25</gx:coord>
+<gx:coord>57.6907750 54.1339750 384.05</gx:coord>
+<gx:coord>57.6907917 54.1340700 388.49</gx:coord>
+<gx:coord>57.6907850 54.1341633 388.03</gx:coord>
+<gx:coord>57.6907650 54.1342583 386.51</gx:coord>
+<gx:coord>57.6907783 54.1343500 388.49</gx:coord>
+<gx:coord>57.6907517 54.1344400 391.57</gx:coord>
+<gx:coord>57.6907383 54.1345467 393.51</gx:coord>
+<gx:coord>57.6907483 54.1346417 393.31</gx:coord>
+<gx:coord>57.6907283 54.1347433 392.94</gx:coord>
+<gx:coord>57.6906867 54.1348467 392.60</gx:coord>
+<gx:coord>57.6906600 54.1349367 392.43</gx:coord>
+<gx:coord>57.6906150 54.1350350 391.89</gx:coord>
+<gx:coord>57.6905883 54.1351300 391.88</gx:coord>
+<gx:coord>57.6905650 54.1352200 392.00</gx:coord>
+<gx:coord>57.6904767 54.1353383 392.13</gx:coord>
+<gx:coord>57.6904300 54.1354400 392.62</gx:coord>
+<gx:coord>57.6903367 54.1355317 392.88</gx:coord>
+<gx:coord>57.6902600 54.1356267 393.07</gx:coord>
+<gx:coord>57.6901883 54.1357117 393.63</gx:coord>
+<gx:coord>57.6901033 54.1357883 393.78</gx:coord>
+<gx:coord>57.6900033 54.1358750 393.89</gx:coord>
+<gx:coord>57.6899067 54.1359450 393.45</gx:coord>
+<gx:coord>57.6898200 54.1360300 393.36</gx:coord>
+<gx:coord>57.6897217 54.1361100 393.99</gx:coord>
+<gx:coord>57.6896167 54.1361883 394.16</gx:coord>
+<gx:coord>57.6894950 54.1362450 393.98</gx:coord>
+<gx:coord>57.6893600 54.1363067 393.36</gx:coord>
+<gx:coord>57.6892633 54.1363783 393.31</gx:coord>
+<gx:coord>57.6891850 54.1364567 393.04</gx:coord>
+<gx:coord>57.6890650 54.1365183 392.69</gx:coord>
+<gx:coord>57.6889200 54.1365717 392.42</gx:coord>
+<gx:coord>57.6887850 54.1366150 392.43</gx:coord>
+<gx:coord>57.6886400 54.1366583 392.04</gx:coord>
+<gx:coord>57.6885133 54.1367133 390.93</gx:coord>
+<gx:coord>57.6883467 54.1367383 389.87</gx:coord>
+<gx:coord>57.6882317 54.1368000 388.99</gx:coord>
+<gx:coord>57.6880933 54.1368400 388.50</gx:coord>
+<gx:coord>57.6879283 54.1368717 388.05</gx:coord>
+<gx:coord>57.6877667 54.1368867 387.32</gx:coord>
+<gx:coord>57.6876133 54.1369100 386.92</gx:coord>
+<gx:coord>57.6874567 54.1369317 386.36</gx:coord>
+<gx:coord>57.6873050 54.1369583 386.15</gx:coord>
+<gx:coord>57.6871633 54.1370133 385.58</gx:coord>
+<gx:coord>57.6870150 54.1370367 385.35</gx:coord>
+<gx:coord>57.6868500 54.1370583 385.23</gx:coord>
+<gx:coord>57.6866883 54.1370667 385.31</gx:coord>
+<gx:coord>57.6865333 54.1370783 384.93</gx:coord>
+<gx:coord>57.6863833 54.1371017 382.52</gx:coord>
+<gx:coord>57.6863833 54.1371917 381.99</gx:coord>
+<gx:coord>57.6864833 54.1372600 382.73</gx:coord>
+<gx:coord>57.6865283 54.1373533 382.24</gx:coord>
+<gx:coord>57.6865383 54.1374450 382.02</gx:coord>
+<gx:coord>57.6864933 54.1375367 381.81</gx:coord>
+<gx:coord>57.6865117 54.1376267 381.54</gx:coord>
+<gx:coord>57.6865917 54.1377167 380.58</gx:coord>
+<gx:coord>57.6866517 54.1378017 379.92</gx:coord>
+<gx:coord>57.6866033 54.1378983 379.28</gx:coord>
+<gx:coord>57.6866733 54.1378117 377.17</gx:coord>
+<gx:coord>57.6867967 54.1377567 377.19</gx:coord>
+<gx:coord>57.6866317 54.1377650 376.14</gx:coord>
+<gx:coord>57.6865283 54.1376867 375.63</gx:coord>
+<gx:coord>57.6864333 54.1376083 374.97</gx:coord>
+<gx:coord>57.6864800 54.1375083 374.97</gx:coord>
+<gx:coord>57.6864817 54.1374117 375.18</gx:coord>
+<gx:coord>57.6864850 54.1373183 376.02</gx:coord>
+<gx:coord>57.6864617 54.1372217 377.43</gx:coord>
+<gx:coord>57.6864517 54.1371267 378.92</gx:coord>
+<gx:coord>57.6864533 54.1370300 379.73</gx:coord>
+<gx:coord>57.6864567 54.1371217 381.75</gx:coord>
+<gx:coord>57.6865050 54.1372167 380.71</gx:coord>
+<gx:coord>57.6865333 54.1373133 380.27</gx:coord>
+<gx:coord>57.6865200 54.1374083 379.95</gx:coord>
+<gx:coord>57.6865167 54.1375017 379.62</gx:coord>
+<gx:coord>57.6865017 54.1375967 379.40</gx:coord>
+<gx:coord>57.6865867 54.1376717 378.89</gx:coord>
+<gx:coord>57.6866800 54.1377450 378.16</gx:coord>
+<gx:coord>57.6866100 54.1378317 377.08</gx:coord>
+<gx:coord>57.6864600 54.1378517 375.94</gx:coord>
+<gx:coord>57.6866083 54.1378783 373.12</gx:coord>
+<gx:coord>57.6866833 54.1379600 372.52</gx:coord>
+<gx:coord>57.6866067 54.1378750 371.94</gx:coord>
+<gx:coord>57.6867450 54.1378067 372.00</gx:coord>
+<gx:coord>57.6868767 54.1377517 371.79</gx:coord>
+<gx:coord>57.6867117 54.1377850 372.04</gx:coord>
+<gx:coord>57.6866133 54.1378583 371.26</gx:coord>
+<gx:coord>57.6866500 54.1379717 369.24</gx:coord>
+<gx:coord>57.6866517 54.1378683 365.29</gx:coord>
+<gx:coord>57.6866650 54.1379583 368.64</gx:coord>
+<gx:coord>57.6867417 54.1380383 368.44</gx:coord>
+<gx:coord>57.6866633 54.1379150 368.79</gx:coord>
+<gx:coord>57.6867300 54.1380633 369.74</gx:coord>
+<gx:coord>57.6866517 54.1379350 370.54</gx:coord>
+<gx:coord>57.6867250 54.1380250 370.67</gx:coord>
+<gx:coord>57.6866283 54.1379517 368.47</gx:coord>
+<gx:coord>57.6866550 54.1378450 367.10</gx:coord>
+<gx:coord>57.6867117 54.1379417 370.49</gx:coord>
+<gx:coord>57.6866317 54.1377950 370.39</gx:coord>
+<gx:coord>57.6865700 54.1378833 371.30</gx:coord>
+<gx:coord>57.6865383 54.1377867 378.54</gx:coord>
+<gx:coord>57.6866100 54.1378717 376.69</gx:coord>
+<gx:coord>57.6866217 54.1377767 374.74</gx:coord>
+<gx:coord>57.6866083 54.1378733 372.69</gx:coord>
+<gx:coord>57.6865933 54.1377750 371.41</gx:coord>
+<gx:coord>57.6865567 54.1376317 370.99</gx:coord>
+<gx:coord>57.6865667 54.1377900 374.39</gx:coord>
+<gx:coord>57.6866317 54.1379033 375.94</gx:coord>
+<gx:coord>57.6866150 54.1380233 376.64</gx:coord>
+<gx:coord>57.6866283 54.1381317 376.30</gx:coord>
+<gx:coord>57.6866533 54.1382417 375.66</gx:coord>
+<gx:coord>57.6866767 54.1383433 374.91</gx:coord>
+<gx:coord>57.6866483 54.1381867 373.94</gx:coord>
+<gx:coord>57.6865917 54.1380700 373.29</gx:coord>
+<gx:coord>57.6866967 54.1379583 369.49</gx:coord>
+<gx:coord>57.6865883 54.1378883 367.19</gx:coord>
+<gx:coord>57.6866333 54.1380650 365.34</gx:coord>
+<gx:coord>57.6867600 54.1380133 365.15</gx:coord>
+<gx:coord>57.6866717 54.1379283 365.14</gx:coord>
+<gx:coord>57.6866067 54.1378417 365.31</gx:coord>
+<gx:coord>57.6865617 54.1377483 366.11</gx:coord>
+<gx:coord>57.6865883 54.1378683 366.24</gx:coord>
+<gx:coord>57.6866533 54.1379517 366.14</gx:coord>
+<gx:coord>57.6865233 54.1378950 369.00</gx:coord>
+<gx:coord>57.6866717 54.1379283 366.64</gx:coord>
+<gx:coord>57.6866483 54.1378333 364.29</gx:coord>
+<gx:coord>57.6866867 54.1379800 365.64</gx:coord>
+<gx:coord>57.6865767 54.1379150 365.64</gx:coord>
+<gx:coord>57.6867100 54.1379633 362.64</gx:coord>
+<gx:coord>57.6865667 54.1379233 357.34</gx:coord>
+<gx:coord>57.6865767 54.1378333 367.58</gx:coord>
+<gx:coord>57.6866533 54.1379133 369.34</gx:coord>
+<gx:coord>57.6866550 54.1378750 370.34</gx:coord>
+<gx:coord>57.6864483 54.1377283 369.89</gx:coord>
+<gx:coord>57.6865650 54.1378217 369.42</gx:coord>
+<gx:coord>57.6866883 54.1379550 367.79</gx:coord>
+<gx:coord>57.6866117 54.1378750 365.41</gx:coord>
+<gx:coord>57.6866683 54.1379617 365.84</gx:coord>
+<gx:coord>57.6866067 54.1378783 364.59</gx:coord>
+<gx:coord>57.6866783 54.1379583 364.19</gx:coord>
+<gx:coord>57.6867550 54.1380383 366.04</gx:coord>
+<gx:coord>57.6866750 54.1379517 366.99</gx:coord>
+<gx:coord>57.6865633 54.1378783 366.99</gx:coord>
+<gx:coord>57.6866283 54.1379600 365.04</gx:coord>
+<gx:coord>57.6866550 54.1380600 358.89</gx:coord>
+<gx:coord>57.6866017 54.1379733 348.94</gx:coord>
+<gx:coord>57.6866217 54.1380683 346.56</gx:coord>
+<gx:coord>57.6865850 54.1379767 351.34</gx:coord>
+<gx:coord>57.6865617 54.1378817 351.89</gx:coord>
+<gx:coord>57.6866033 54.1380267 351.69</gx:coord>
+<gx:coord>57.6865100 54.1379550 350.59</gx:coord>
+<gx:coord>57.6865883 54.1380333 354.19</gx:coord>
+<gx:coord>57.6864667 54.1378983 353.84</gx:coord>
+<gx:coord>57.6865617 54.1379700 354.53</gx:coord>
+<gx:coord>57.6865633 54.1380600 351.69</gx:coord>
+<gx:coord>57.6865800 54.1379700 348.78</gx:coord>
+<gx:coord>57.6865600 54.1380717 348.01</gx:coord>
+<gx:coord>57.6865350 54.1379783 346.72</gx:coord>
+<gx:coord>57.6865650 54.1380733 355.44</gx:coord>
+<gx:coord>57.6865050 54.1379083 356.04</gx:coord>
+<gx:coord>57.6865767 54.1380000 361.29</gx:coord>
+<gx:coord>57.6864750 54.1378767 372.79</gx:coord>
+<gx:coord>57.6865433 54.1379633 370.18</gx:coord>
+<gx:coord>57.6866233 54.1380917 374.59</gx:coord>
+<gx:coord>57.6865233 54.1379933 374.84</gx:coord>
+<gx:coord>57.6866433 54.1380517 375.31</gx:coord>
+<gx:coord>57.6866617 54.1379567 377.06</gx:coord>
+<gx:coord>57.6867500 54.1380367 374.59</gx:coord>
+<gx:coord>57.6866200 54.1379817 377.04</gx:coord>
+<gx:coord>57.6865383 54.1378967 379.19</gx:coord>
+<gx:coord>57.6866150 54.1379800 379.36</gx:coord>
+<gx:coord>57.6866783 54.1380700 378.99</gx:coord>
+<gx:coord>57.6866667 54.1379800 378.66</gx:coord>
+<gx:coord>57.6865217 54.1379450 379.21</gx:coord>
+<gx:coord>57.6866733 54.1379867 375.00</gx:coord>
+<gx:coord>57.6865583 54.1379183 374.99</gx:coord>
+<gx:coord>57.6864633 54.1378267 374.34</gx:coord>
+<gx:coord>57.6865767 54.1378933 374.49</gx:coord>
+<gx:coord>57.6866617 54.1379883 374.49</gx:coord>
+<gx:coord>57.6865533 54.1379150 371.16</gx:coord>
+<gx:coord>57.6866583 54.1379833 370.29</gx:coord>
+<gx:coord>57.6866533 54.1380850 374.69</gx:coord>
+<gx:coord>57.6866217 54.1379883 379.28</gx:coord>
+<gx:coord>57.6865450 54.1378817 383.49</gx:coord>
+<gx:coord>57.6866517 54.1379550 385.64</gx:coord>
+<gx:coord>57.6865583 54.1377817 387.49</gx:coord>
+<gx:coord>57.6866333 54.1379533 390.59</gx:coord>
+<gx:coord>57.6865783 54.1378667 390.34</gx:coord>
+<gx:coord>57.6866767 54.1377817 375.89</gx:coord>
+<gx:coord>57.6866067 54.1378683 373.54</gx:coord>
+<gx:coord>57.6865400 54.1379567 372.64</gx:coord>
+<gx:coord>57.6864917 54.1378650 371.74</gx:coord>
+<gx:coord>57.6865000 54.1379583 372.09</gx:coord>
+<gx:coord>57.6864750 54.1380517 372.32</gx:coord>
+<gx:coord>57.6865100 54.1378950 371.59</gx:coord>
+<gx:coord>57.6864050 54.1379783 377.29</gx:coord>
+<gx:coord>57.6863283 54.1380617 376.98</gx:coord>
+<gx:coord>57.6862467 54.1381417 376.45</gx:coord>
+<gx:coord>57.6860983 54.1382117 377.32</gx:coord>
+<gx:coord>57.6859800 54.1382750 378.38</gx:coord>
+<gx:coord>57.6861350 54.1381133 378.74</gx:coord>
+<gx:coord>57.6863683 54.1379800 378.44</gx:coord>
+<gx:coord>57.6864700 54.1379100 378.78</gx:coord>
+<gx:coord>57.6865733 54.1377967 379.54</gx:coord>
+<gx:coord>57.6864833 54.1378700 376.76</gx:coord>
+<gx:coord>57.6865517 54.1377850 374.94</gx:coord>
+<gx:coord>57.6867217 54.1377867 370.24</gx:coord>
+<gx:coord>57.6866267 54.1378600 366.56</gx:coord>
+<gx:coord>57.6866667 54.1377050 364.04</gx:coord>
+<gx:coord>57.6868083 54.1376383 364.19</gx:coord>
+<gx:coord>57.6867050 54.1377117 363.76</gx:coord>
+<gx:coord>57.6866150 54.1377883 360.86</gx:coord>
+<gx:coord>57.6867000 54.1378667 358.69</gx:coord>
+<gx:coord>57.6865200 54.1377300 360.09</gx:coord>
+<gx:coord>57.6864550 54.1376350 368.39</gx:coord>
+<gx:coord>57.6865400 54.1377150 366.24</gx:coord>
+<gx:coord>57.6866117 54.1378133 365.54</gx:coord>
+<gx:coord>57.6865400 54.1377300 367.89</gx:coord>
+<gx:coord>57.6865633 54.1378350 368.99</gx:coord>
+<gx:coord>57.6866217 54.1379567 369.84</gx:coord>
+<gx:coord>57.6866767 54.1380533 370.53</gx:coord>
+<gx:coord>57.6866783 54.1379567 374.28</gx:coord>
+<gx:coord>57.6866200 54.1378667 375.59</gx:coord>
+<gx:coord>57.6866200 54.1379950 367.29</gx:coord>
+<gx:coord>57.6866233 54.1379050 369.46</gx:coord>
+<gx:coord>57.6865467 54.1378200 371.74</gx:coord>
+<gx:coord>57.6866217 54.1379950 369.09</gx:coord>
+<gx:coord>57.6867233 54.1380950 369.44</gx:coord>
+<gx:coord>57.6866333 54.1380017 371.21</gx:coord>
+<gx:coord>57.6865667 54.1379000 371.94</gx:coord>
+<gx:coord>57.6865750 54.1379983 377.39</gx:coord>
+<gx:coord>57.6866417 54.1379167 376.03</gx:coord>
+<gx:coord>57.6865600 54.1379983 374.99</gx:coord>
+<gx:coord>57.6865533 54.1379067 377.27</gx:coord>
+<gx:coord>57.6866533 54.1379800 378.04</gx:coord>
+<gx:coord>57.6865483 54.1378450 381.79</gx:coord>
+<gx:coord>57.6865683 54.1379350 380.66</gx:coord>
+<gx:coord>57.6866817 54.1378367 380.74</gx:coord>
+<gx:coord>57.6866683 54.1379267 381.35</gx:coord>
+<gx:coord>57.6866833 54.1380200 372.39</gx:coord>
+<gx:coord>57.6865350 54.1379867 357.94</gx:coord>
+<gx:coord>57.6864867 54.1378650 355.74</gx:coord>
+<gx:coord>57.6865967 54.1379300 350.29</gx:coord>
+<gx:coord>57.6865017 54.1378500 351.06</gx:coord>
+<gx:coord>57.6865450 54.1379400 355.39</gx:coord>
+<gx:coord>57.6866167 54.1380767 360.79</gx:coord>
+<gx:coord>57.6865067 54.1379067 359.69</gx:coord>
+<gx:coord>57.6864150 54.1378250 359.04</gx:coord>
+<gx:coord>57.6865417 54.1379033 358.29</gx:coord>
+<gx:coord>57.6866333 54.1380067 358.41</gx:coord>
+<gx:coord>57.6867150 54.1380867 358.22</gx:coord>
+<gx:coord>57.6865850 54.1379850 351.69</gx:coord>
+<gx:coord>57.6864750 54.1378550 357.34</gx:coord>
+<gx:coord>57.6864883 54.1379467 366.27</gx:coord>
+<gx:coord>57.6864867 54.1378567 362.94</gx:coord>
+<gx:coord>57.6864067 54.1377750 357.74</gx:coord>
+<gx:coord>57.6865017 54.1379400 352.99</gx:coord>
+<gx:coord>57.6864517 54.1378533 350.14</gx:coord>
+<gx:coord>57.6863550 54.1377533 352.29</gx:coord>
+<gx:coord>57.6863383 54.1376383 355.94</gx:coord>
+<gx:coord>57.6864750 54.1377900 356.39</gx:coord>
+<gx:coord>57.6863317 54.1376467 355.14</gx:coord>
+<gx:coord>57.6864267 54.1377283 356.66</gx:coord>
+<gx:coord>57.6865200 54.1378133 356.54</gx:coord>
+<gx:coord>57.6864483 54.1377333 354.64</gx:coord>
+<gx:coord>57.6863900 54.1376300 356.49</gx:coord>
+<gx:coord>57.6864317 54.1377883 358.94</gx:coord>
+<gx:coord>57.6863750 54.1377033 357.01</gx:coord>
+<gx:coord>57.6863750 54.1376017 351.14</gx:coord>
+<gx:coord>57.6863233 54.1375150 346.88</gx:coord>
+<gx:coord>57.6862633 54.1374183 347.74</gx:coord>
+<gx:coord>57.6862583 54.1375117 349.90</gx:coord>
+<gx:coord>57.6863083 54.1376200 351.18</gx:coord>
+<gx:coord>57.6863933 54.1377300 353.89</gx:coord>
+<gx:coord>57.6864267 54.1378433 357.14</gx:coord>
+<gx:coord>57.6863983 54.1377517 357.39</gx:coord>
+<gx:coord>57.6863600 54.1376333 355.94</gx:coord>
+<gx:coord>57.6863583 54.1377233 355.54</gx:coord>
+<gx:coord>57.6864767 54.1378683 360.64</gx:coord>
+<gx:coord>57.6865383 54.1379667 363.99</gx:coord>
+<gx:coord>57.6864767 54.1378817 364.54</gx:coord>
+<gx:coord>57.6865033 54.1379867 377.64</gx:coord>
+<gx:coord>57.6865867 54.1378467 375.09</gx:coord>
+<gx:coord>57.6865900 54.1377567 377.60</gx:coord>
+<gx:coord>57.6864717 54.1376950 376.63</gx:coord>
+<gx:coord>57.6863900 54.1376117 377.29</gx:coord>
+<gx:coord>57.6864183 54.1375217 377.91</gx:coord>
+<gx:coord>57.6864450 54.1374250 379.20</gx:coord>
+<gx:coord>57.6864317 54.1373317 381.15</gx:coord>
+<gx:coord>57.6863900 54.1372383 382.38</gx:coord>
+<gx:coord>57.6863867 54.1371183 382.94</gx:coord>
+<gx:coord>57.6864083 54.1370200 383.92</gx:coord>
+<gx:coord>57.6862467 54.1370233 383.93</gx:coord>
+<gx:coord>57.6860850 54.1370667 384.26</gx:coord>
+<gx:coord>57.6859283 54.1370683 384.74</gx:coord>
+<gx:coord>57.6857550 54.1370683 385.31</gx:coord>
+<gx:coord>57.6855967 54.1370717 385.34</gx:coord>
+<gx:coord>57.6854467 54.1370917 385.60</gx:coord>
+<gx:coord>57.6852900 54.1370733 386.16</gx:coord>
+<gx:coord>57.6851233 54.1370600 386.72</gx:coord>
+<gx:coord>57.6849617 54.1370533 386.92</gx:coord>
+<gx:coord>57.6848000 54.1370550 387.18</gx:coord>
+<gx:coord>57.6846300 54.1370533 387.09</gx:coord>
+<gx:coord>57.6844550 54.1370650 386.94</gx:coord>
+<gx:coord>57.6843017 54.1370750 386.72</gx:coord>
+<gx:coord>57.6841367 54.1370933 387.14</gx:coord>
+<gx:coord>57.6839717 54.1371250 388.03</gx:coord>
+<gx:coord>57.6838183 54.1371583 388.71</gx:coord>
+<gx:coord>57.6836517 54.1371517 389.46</gx:coord>
+<gx:coord>57.6835067 54.1371850 390.25</gx:coord>
+<gx:coord>57.6834283 54.1370783 380.84</gx:coord>
+<gx:coord>57.6832633 54.1371017 376.54</gx:coord>
+<gx:coord>57.6830983 54.1371117 374.98</gx:coord>
+<gx:coord>57.6829667 54.1371667 373.75</gx:coord>
+<gx:coord>57.6828067 54.1371750 371.79</gx:coord>
+<gx:coord>57.6826700 54.1372367 370.86</gx:coord>
+<gx:coord>57.6825167 54.1372533 370.60</gx:coord>
+<gx:coord>57.6823650 54.1372750 370.05</gx:coord>
+<gx:coord>57.6822250 54.1373250 370.04</gx:coord>
+<gx:coord>57.6820767 54.1373667 370.34</gx:coord>
+<gx:coord>57.6819350 54.1374117 371.02</gx:coord>
+<gx:coord>57.6817800 54.1374650 371.54</gx:coord>
+<gx:coord>57.6816500 54.1375167 372.25</gx:coord>
+<gx:coord>57.6815183 54.1375800 373.66</gx:coord>
+<gx:coord>57.6813833 54.1376350 374.79</gx:coord>
+<gx:coord>57.6812650 54.1377067 376.08</gx:coord>
+<gx:coord>57.6811533 54.1377733 377.37</gx:coord>
+<gx:coord>57.6810233 54.1378300 378.22</gx:coord>
+<gx:coord>57.6808717 54.1378800 378.05</gx:coord>
+<gx:coord>57.6807217 54.1379217 378.97</gx:coord>
+<gx:coord>57.6806033 54.1379900 379.06</gx:coord>
+<gx:coord>57.6804833 54.1380550 377.97</gx:coord>
+<gx:coord>57.6803400 54.1381083 375.82</gx:coord>
+<gx:coord>57.6802100 54.1381600 374.17</gx:coord>
+<gx:coord>57.6800867 54.1382150 371.88</gx:coord>
+<gx:coord>57.6799467 54.1382567 370.07</gx:coord>
+<gx:coord>57.6798267 54.1383250 368.73</gx:coord>
+<gx:coord>57.6796883 54.1383750 368.05</gx:coord>
+<gx:coord>57.6795600 54.1384350 368.86</gx:coord>
+<gx:coord>57.6794533 54.1385033 370.42</gx:coord>
+<gx:coord>57.6793233 54.1385550 371.15</gx:coord>
+<gx:coord>57.6791717 54.1385833 371.34</gx:coord>
+<gx:coord>57.6790483 54.1386383 371.99</gx:coord>
+<gx:coord>57.6789367 54.1387017 372.29</gx:coord>
+<gx:coord>57.6788117 54.1387550 373.59</gx:coord>
+<gx:coord>57.6786650 54.1388000 376.65</gx:coord>
+<gx:coord>57.6785233 54.1388617 378.74</gx:coord>
+<gx:coord>57.6784133 54.1389317 380.99</gx:coord>
+<gx:coord>57.6782667 54.1389900 382.28</gx:coord>
+<gx:coord>57.6781050 54.1390267 383.50</gx:coord>
+<gx:coord>57.6779550 54.1390600 384.37</gx:coord>
+<gx:coord>57.6778117 54.1391150 384.56</gx:coord>
+<gx:coord>57.6776900 54.1391717 384.94</gx:coord>
+<gx:coord>57.6775483 54.1392150 384.96</gx:coord>
+<gx:coord>57.6774017 54.1392700 385.29</gx:coord>
+<gx:coord>57.6772433 54.1393083 384.84</gx:coord>
+<gx:coord>57.6771017 54.1393433 384.16</gx:coord>
+<gx:coord>57.6769517 54.1393767 382.22</gx:coord>
+<gx:coord>57.6768017 54.1394150 381.08</gx:coord>
+<gx:coord>57.6766600 54.1394617 380.16</gx:coord>
+<gx:coord>57.6765067 54.1394983 379.58</gx:coord>
+<gx:coord>57.6763517 54.1395183 378.88</gx:coord>
+<gx:coord>57.6762000 54.1395517 377.63</gx:coord>
+<gx:coord>57.6760333 54.1395783 376.63</gx:coord>
+<gx:coord>57.6758733 54.1395883 375.28</gx:coord>
+<gx:coord>57.6757217 54.1396333 374.20</gx:coord>
+<gx:coord>57.6755867 54.1396767 372.50</gx:coord>
+<gx:coord>57.6754317 54.1397033 372.34</gx:coord>
+<gx:coord>57.6752683 54.1397250 372.19</gx:coord>
+<gx:coord>57.6751317 54.1397817 372.44</gx:coord>
+<gx:coord>57.6749700 54.1397900 372.71</gx:coord>
+<gx:coord>57.6748150 54.1398050 372.84</gx:coord>
+<gx:coord>57.6746583 54.1398550 373.06</gx:coord>
+<gx:coord>57.6745050 54.1398950 373.47</gx:coord>
+<gx:coord>57.6743383 54.1399267 373.97</gx:coord>
+<gx:coord>57.6741800 54.1399500 374.32</gx:coord>
+<gx:coord>57.6740100 54.1399800 374.33</gx:coord>
+<gx:coord>57.6738483 54.1400167 374.00</gx:coord>
+<gx:coord>57.6736833 54.1400067 373.10</gx:coord>
+<gx:coord>57.6735250 54.1400417 371.79</gx:coord>
+<gx:coord>57.6733867 54.1400817 371.07</gx:coord>
+<gx:coord>57.6732333 54.1400950 370.52</gx:coord>
+<gx:coord>57.6730900 54.1401317 370.46</gx:coord>
+<gx:coord>57.6729433 54.1401717 370.94</gx:coord>
+<gx:coord>57.6727750 54.1401850 371.54</gx:coord>
+<gx:coord>57.6726050 54.1402100 372.01</gx:coord>
+<gx:coord>57.6724667 54.1402517 372.36</gx:coord>
+<gx:coord>57.6723067 54.1402800 372.87</gx:coord>
+<gx:coord>57.6721417 54.1402983 373.27</gx:coord>
+<gx:coord>57.6719833 54.1403467 373.51</gx:coord>
+<gx:coord>57.6718217 54.1403750 374.24</gx:coord>
+<gx:coord>57.6716750 54.1404317 374.87</gx:coord>
+<gx:coord>57.6715367 54.1404750 375.64</gx:coord>
+<gx:coord>57.6713450 54.1404700 375.69</gx:coord>
+<gx:coord>57.6711833 54.1405067 375.74</gx:coord>
+<gx:coord>57.6710250 54.1405283 375.66</gx:coord>
+<gx:coord>57.6708667 54.1405650 375.58</gx:coord>
+<gx:coord>57.6707067 54.1406033 375.76</gx:coord>
+<gx:coord>57.6705567 54.1406350 375.95</gx:coord>
+<gx:coord>57.6705350 54.1405417 375.14</gx:coord>
+<gx:coord>57.6706967 54.1405283 375.90</gx:coord>
+<gx:coord>57.6708517 54.1405117 376.11</gx:coord>
+<gx:coord>57.6710150 54.1404967 375.80</gx:coord>
+<gx:coord>57.6711733 54.1404850 375.33</gx:coord>
+<gx:coord>57.6713217 54.1404617 374.91</gx:coord>
+<gx:coord>57.6714700 54.1404217 374.67</gx:coord>
+<gx:coord>57.6716233 54.1403967 374.30</gx:coord>
+<gx:coord>57.6718000 54.1403767 374.34</gx:coord>
+<gx:coord>57.6719617 54.1403383 374.38</gx:coord>
+<gx:coord>57.6721067 54.1403017 374.12</gx:coord>
+<gx:coord>57.6722500 54.1402633 373.81</gx:coord>
+<gx:coord>57.6724017 54.1402467 373.51</gx:coord>
+<gx:coord>57.6725450 54.1402067 373.10</gx:coord>
+<gx:coord>57.6727150 54.1401883 372.58</gx:coord>
+<gx:coord>57.6728667 54.1401350 372.35</gx:coord>
+<gx:coord>57.6730183 54.1400950 372.01</gx:coord>
+<gx:coord>57.6731700 54.1400683 371.68</gx:coord>
+<gx:coord>57.6733267 54.1400533 371.18</gx:coord>
+<gx:coord>57.6734800 54.1400333 370.68</gx:coord>
+<gx:coord>57.6736317 54.1399867 369.91</gx:coord>
+<gx:coord>57.6737833 54.1399633 369.35</gx:coord>
+<gx:coord>57.6739283 54.1399283 368.84</gx:coord>
+<gx:coord>57.6740667 54.1398850 368.09</gx:coord>
+<gx:coord>57.6742033 54.1398433 367.68</gx:coord>
+<gx:coord>57.6743700 54.1398117 367.49</gx:coord>
+<gx:coord>57.6745283 54.1397800 367.56</gx:coord>
+<gx:coord>57.6746783 54.1397400 367.68</gx:coord>
+<gx:coord>57.6748467 54.1397467 367.59</gx:coord>
+<gx:coord>57.6750100 54.1397417 367.06</gx:coord>
+<gx:coord>57.6751733 54.1396983 366.72</gx:coord>
+<gx:coord>57.6753200 54.1396583 366.74</gx:coord>
+<gx:coord>57.6754767 54.1396400 367.30</gx:coord>
+<gx:coord>57.6756333 54.1396383 369.33</gx:coord>
+<gx:coord>57.6757633 54.1395783 370.07</gx:coord>
+<gx:coord>57.6759167 54.1395433 370.17</gx:coord>
+<gx:coord>57.6760867 54.1395600 370.00</gx:coord>
+<gx:coord>57.6762533 54.1395300 370.25</gx:coord>
+<gx:coord>57.6764017 54.1394900 370.00</gx:coord>
+<gx:coord>57.6765467 54.1394450 369.35</gx:coord>
+<gx:coord>57.6767117 54.1394250 368.92</gx:coord>
+<gx:coord>57.6768633 54.1393883 368.25</gx:coord>
+<gx:coord>57.6770317 54.1393683 367.53</gx:coord>
+<gx:coord>57.6771717 54.1393150 366.96</gx:coord>
+<gx:coord>57.6773333 54.1392817 366.55</gx:coord>
+<gx:coord>57.6774617 54.1392283 365.84</gx:coord>
+<gx:coord>57.6775983 54.1391783 365.31</gx:coord>
+<gx:coord>57.6777467 54.1391283 365.13</gx:coord>
+<gx:coord>57.6778833 54.1390700 364.70</gx:coord>
+<gx:coord>57.6780250 54.1390117 365.05</gx:coord>
+<gx:coord>57.6781817 54.1389733 364.98</gx:coord>
+<gx:coord>57.6783267 54.1389250 364.50</gx:coord>
+<gx:coord>57.6782833 54.1388217 364.45</gx:coord>
+<gx:coord>57.6783167 54.1389633 370.84</gx:coord>
+<gx:coord>57.6783267 54.1388700 371.14</gx:coord>
+<gx:coord>57.6782567 54.1387667 372.03</gx:coord>
+<gx:coord>57.6782117 54.1386800 372.84</gx:coord>
+<gx:coord>57.6783317 54.1388100 373.09</gx:coord>
+<gx:coord>57.6783117 54.1387117 373.04</gx:coord>
+<gx:coord>57.6782467 54.1386250 373.04</gx:coord>
+<gx:coord>57.6781700 54.1385450 373.14</gx:coord>
+<gx:coord>57.6780600 54.1384750 373.00</gx:coord>
+<gx:coord>57.6779117 54.1384483 373.13</gx:coord>
+<gx:coord>57.6777667 54.1384100 372.94</gx:coord>
+<gx:coord>57.6776583 54.1383300 372.94</gx:coord>
+<gx:coord>57.6776167 54.1382417 373.11</gx:coord>
+<gx:coord>57.6776017 54.1381467 373.09</gx:coord>
+<gx:coord>57.6777733 54.1380600 374.14</gx:coord>
+<gx:coord>57.6776183 54.1380400 375.34</gx:coord>
+<gx:coord>57.6775600 54.1379233 375.69</gx:coord>
+<gx:coord>57.6777000 54.1380517 375.94</gx:coord>
+<gx:coord>57.6777300 54.1381683 380.44</gx:coord>
+<gx:coord>57.6775667 54.1381283 380.59</gx:coord>
+<gx:coord>57.6774267 54.1380517 380.39</gx:coord>
+<gx:coord>57.6773833 54.1379617 380.44</gx:coord>
+<gx:coord>57.6774817 54.1377967 380.89</gx:coord>
+<gx:coord>57.6774450 54.1377017 381.64</gx:coord>
+<gx:coord>57.6773550 54.1376283 382.32</gx:coord>
+<gx:coord>57.6773167 54.1375350 382.75</gx:coord>
+<gx:coord>57.6773150 54.1374450 383.56</gx:coord>
+<gx:coord>57.6772367 54.1373183 385.39</gx:coord>
+<gx:coord>57.6772017 54.1372283 387.01</gx:coord>
+<gx:coord>57.6771117 54.1371533 387.68</gx:coord>
+<gx:coord>57.6769583 54.1371350 389.35</gx:coord>
+<gx:coord>57.6768600 54.1370633 396.01</gx:coord>
+<gx:coord>57.6769750 54.1369900 400.34</gx:coord>
+<gx:coord>57.6767900 54.1370117 403.74</gx:coord>
+<gx:coord>57.6766883 54.1369417 405.21</gx:coord>
+<gx:coord>57.6765650 54.1368717 407.84</gx:coord>
+<gx:coord>57.6764267 54.1368217 415.78</gx:coord>
+<gx:coord>57.6764083 54.1366550 421.84</gx:coord>
+<gx:coord>57.6762967 54.1367267 428.86</gx:coord>
+<gx:coord>57.6761617 54.1367767 429.48</gx:coord>
+<gx:coord>57.6763717 54.1367567 429.87</gx:coord>
+<gx:coord>57.6762683 54.1366717 432.19</gx:coord>
+<gx:coord>57.6761883 54.1365700 433.79</gx:coord>
+<gx:coord>57.6762117 54.1364783 438.66</gx:coord>
+<gx:coord>57.6761083 54.1364050 439.67</gx:coord>
+<gx:coord>57.6759600 54.1363150 458.24</gx:coord>
+<gx:coord>57.6758883 54.1362267 460.61</gx:coord>
+<gx:coord>57.6757317 54.1361983 470.78</gx:coord>
+<gx:coord>57.6753617 54.1362317 473.14</gx:coord>
+<gx:coord>57.6757317 54.1359633 474.24</gx:coord>
+<gx:coord>57.6756717 54.1360550 470.96</gx:coord>
+<gx:coord>57.6755267 54.1360133 474.68</gx:coord>
+<gx:coord>57.6756133 54.1359117 477.04</gx:coord>
+<gx:coord>57.6754783 54.1358633 479.04</gx:coord>
+<gx:coord>57.6754167 54.1357117 481.84</gx:coord>
+<gx:coord>57.6753950 54.1356183 484.74</gx:coord>
+<gx:coord>57.6752800 54.1355217 488.09</gx:coord>
+<gx:coord>57.6753917 54.1356450 511.84</gx:coord>
+<gx:coord>57.6752500 54.1356100 515.83</gx:coord>
+<gx:coord>57.6752967 54.1355200 517.34</gx:coord>
+<gx:coord>57.6752683 54.1354133 519.59</gx:coord>
+<gx:coord>57.6751300 54.1354683 520.85</gx:coord>
+<gx:coord>57.6749917 54.1355617 528.24</gx:coord>
+<gx:coord>57.6749500 54.1354567 544.09</gx:coord>
+<gx:coord>57.6749100 54.1355467 545.14</gx:coord>
+<gx:coord>57.6747750 54.1356800 548.69</gx:coord>
+<gx:coord>57.6748867 54.1356133 550.01</gx:coord>
+<gx:coord>57.6748433 54.1355250 553.14</gx:coord>
+<gx:coord>57.6749617 54.1355917 556.94</gx:coord>
+<gx:coord>57.6750567 54.1356650 557.13</gx:coord>
+<gx:coord>57.6752083 54.1356850 555.67</gx:coord>
+<gx:coord>57.6753250 54.1357467 554.78</gx:coord>
+<gx:coord>57.6751833 54.1356983 553.07</gx:coord>
+<gx:coord>57.6750200 54.1356883 552.62</gx:coord>
+<gx:coord>57.6749383 54.1356117 552.19</gx:coord>
+<gx:coord>57.6747517 54.1355150 553.29</gx:coord>
+<gx:coord>57.6746567 54.1353483 557.04</gx:coord>
+<gx:coord>57.6746233 54.1351983 564.54</gx:coord>
+<gx:coord>57.6744733 54.1352233 568.26</gx:coord>
+<gx:coord>57.6743317 54.1351650 569.34</gx:coord>
+<gx:coord>57.6742783 54.1350483 575.14</gx:coord>
+<gx:coord>57.6741567 54.1349567 580.84</gx:coord>
+<gx:coord>57.6742217 54.1348650 584.14</gx:coord>
+<gx:coord>57.6740767 54.1348283 603.74</gx:coord>
+<gx:coord>57.6739333 54.1347650 611.94</gx:coord>
+<gx:coord>57.6739500 54.1348600 613.54</gx:coord>
+<gx:coord>57.6739833 54.1347700 615.06</gx:coord>
+<gx:coord>57.6739900 54.1346783 615.23</gx:coord>
+<gx:coord>57.6740033 54.1347683 625.63</gx:coord>
+<gx:coord>57.6740033 54.1348633 627.27</gx:coord>
+<gx:coord>57.6740133 54.1349567 629.51</gx:coord>
+<gx:coord>57.6739900 54.1348167 626.64</gx:coord>
+<gx:coord>57.6738867 54.1347417 628.16</gx:coord>
+<gx:coord>57.6738283 54.1346583 629.19</gx:coord>
+<gx:coord>57.6739950 54.1346833 632.52</gx:coord>
+<gx:coord>57.6738383 54.1347400 635.29</gx:coord>
+<gx:coord>57.6737217 54.1346800 642.70</gx:coord>
+<gx:coord>57.6735183 54.1346717 643.79</gx:coord>
+<gx:coord>57.6733483 54.1346967 650.79</gx:coord>
+<gx:coord>57.6731933 54.1347117 653.44</gx:coord>
+<gx:coord>57.6731300 54.1348000 661.47</gx:coord>
+<gx:coord>57.6730050 54.1347450 665.33</gx:coord>
+<gx:coord>57.6728433 54.1347333 665.89</gx:coord>
+<gx:coord>57.6727467 54.1346483 667.09</gx:coord>
+<gx:coord>57.6725933 54.1346667 672.51</gx:coord>
+<gx:coord>57.6726100 54.1347567 678.60</gx:coord>
+<gx:coord>57.6724500 54.1347200 682.11</gx:coord>
+<gx:coord>57.6723183 54.1346683 681.93</gx:coord>
+<gx:coord>57.6724300 54.1346033 682.17</gx:coord>
+<gx:coord>57.6724317 54.1345117 683.03</gx:coord>
+<gx:coord>57.6724200 54.1346017 684.94</gx:coord>
+<gx:coord>57.6723917 54.1346917 686.06</gx:coord>
+<gx:coord>57.6723217 54.1347800 687.27</gx:coord>
+<gx:coord>57.6724417 54.1347150 687.16</gx:coord>
+<gx:coord>57.6723333 54.1346450 686.84</gx:coord>
+<gx:coord>57.6721717 54.1347017 687.39</gx:coord>
+<gx:coord>57.6721917 54.1347983 690.66</gx:coord>
+<gx:coord>57.6720517 54.1348500 691.99</gx:coord>
+<gx:coord>57.6720500 54.1349417 692.96</gx:coord>
+<gx:coord>57.6720683 54.1348467 692.56</gx:coord>
+<gx:coord>57.6719250 54.1348800 691.77</gx:coord>
+<gx:coord>57.6717683 54.1348917 691.95</gx:coord>
+<gx:coord>57.6719367 54.1348917 693.95</gx:coord>
+<gx:coord>57.6720650 54.1348417 693.88</gx:coord>
+<gx:coord>57.6721883 54.1347850 693.83</gx:coord>
+<gx:coord>57.6722150 54.1346950 693.08</gx:coord>
+<gx:coord>57.6723850 54.1347033 692.36</gx:coord>
+<gx:coord>57.6725200 54.1346583 691.65</gx:coord>
+<gx:coord>57.6726733 54.1346450 689.94</gx:coord>
+<gx:coord>57.6727733 54.1345650 687.09</gx:coord>
+<gx:coord>57.6729200 54.1345183 686.56</gx:coord>
+<gx:coord>57.6730183 54.1344400 685.59</gx:coord>
+<gx:coord>57.6731733 54.1344400 684.31</gx:coord>
+<gx:coord>57.6733517 54.1344617 683.09</gx:coord>
+<gx:coord>57.6734750 54.1345200 681.09</gx:coord>
+<gx:coord>57.6735350 54.1346033 678.09</gx:coord>
+<gx:coord>57.6736233 54.1346783 675.29</gx:coord>
+<gx:coord>57.6735133 54.1347517 673.70</gx:coord>
+<gx:coord>57.6733417 54.1347450 673.18</gx:coord>
+<gx:coord>57.6731800 54.1347483 672.21</gx:coord>
+<gx:coord>57.6733283 54.1347183 663.13</gx:coord>
+<gx:coord>57.6734817 54.1347050 661.78</gx:coord>
+<gx:coord>57.6737467 54.1347033 657.84</gx:coord>
+<gx:coord>57.6737667 54.1346117 655.55</gx:coord>
+<gx:coord>57.6736433 54.1345550 655.53</gx:coord>
+<gx:coord>57.6735467 54.1344850 656.49</gx:coord>
+<gx:coord>57.6734617 54.1344067 656.69</gx:coord>
+<gx:coord>57.6733050 54.1344100 656.75</gx:coord>
+<gx:coord>57.6731067 54.1343667 658.09</gx:coord>
+<gx:coord>57.6729633 54.1344350 660.54</gx:coord>
+<gx:coord>57.6728567 54.1345000 662.17</gx:coord>
+<gx:coord>57.6726283 54.1346117 666.94</gx:coord>
+<gx:coord>57.6725050 54.1346733 677.36</gx:coord>
+<gx:coord>57.6723483 54.1346550 677.74</gx:coord>
+<gx:coord>57.6721900 54.1346867 682.04</gx:coord>
+<gx:coord>57.6721667 54.1347783 685.46</gx:coord>
+<gx:coord>57.6720517 54.1348383 686.47</gx:coord>
+<gx:coord>57.6719017 54.1348800 687.84</gx:coord>
+<gx:coord>57.6720583 54.1348933 689.09</gx:coord>
+<gx:coord>57.6721017 54.1348067 698.49</gx:coord>
+<gx:coord>57.6719533 54.1348333 700.34</gx:coord>
+<gx:coord>57.6721167 54.1348517 701.59</gx:coord>
+<gx:coord>57.6719267 54.1348467 699.99</gx:coord>
+<gx:coord>57.6720133 54.1349367 698.54</gx:coord>
+<gx:coord>57.6721567 54.1348917 695.26</gx:coord>
+<gx:coord>57.6722750 54.1348133 695.19</gx:coord>
+<gx:coord>57.6722283 54.1347067 694.79</gx:coord>
+<gx:coord>57.6723400 54.1347767 694.78</gx:coord>
+<gx:coord>57.6725133 54.1347517 695.14</gx:coord>
+<gx:coord>57.6726017 54.1346367 694.94</gx:coord>
+<gx:coord>57.6726633 54.1345433 693.39</gx:coord>
+<gx:coord>57.6726333 54.1343967 692.04</gx:coord>
+<gx:coord>57.6727750 54.1343483 690.57</gx:coord>
+<gx:coord>57.6729150 54.1343100 688.40</gx:coord>
+<gx:coord>57.6730700 54.1343400 686.89</gx:coord>
+<gx:coord>57.6731917 54.1343950 686.20</gx:coord>
+<gx:coord>57.6733367 54.1343533 685.90</gx:coord>
+<gx:coord>57.6734700 54.1342667 685.62</gx:coord>
+<gx:coord>57.6735900 54.1341983 685.17</gx:coord>
+<gx:coord>57.6737350 54.1342383 683.84</gx:coord>
+<gx:coord>57.6740250 54.1342750 680.89</gx:coord>
+<gx:coord>57.6742633 54.1342533 676.84</gx:coord>
+<gx:coord>57.6743817 54.1341650 670.99</gx:coord>
+<gx:coord>57.6746117 54.1341733 667.29</gx:coord>
+<gx:coord>57.6747550 54.1342083 661.66</gx:coord>
+<gx:coord>57.6749950 54.1342400 657.69</gx:coord>
+<gx:coord>57.6751467 54.1342783 653.34</gx:coord>
+<gx:coord>57.6753800 54.1342717 646.49</gx:coord>
+<gx:coord>57.6755267 54.1343283 643.59</gx:coord>
+<gx:coord>57.6755000 54.1344233 641.97</gx:coord>
+<gx:coord>57.6756500 54.1344433 640.59</gx:coord>
+<gx:coord>57.6757750 54.1343867 637.09</gx:coord>
+<gx:coord>57.6759233 54.1344117 634.13</gx:coord>
+<gx:coord>57.6760767 54.1344017 632.34</gx:coord>
+<gx:coord>57.6760817 54.1345383 628.29</gx:coord>
+<gx:coord>57.6761317 54.1346400 627.59</gx:coord>
+<gx:coord>57.6763100 54.1346733 627.09</gx:coord>
+<gx:coord>57.6765000 54.1346800 625.59</gx:coord>
+<gx:coord>57.6766550 54.1346917 621.07</gx:coord>
+<gx:coord>57.6768033 54.1346433 618.86</gx:coord>
+<gx:coord>57.6769633 54.1345783 613.94</gx:coord>
+<gx:coord>57.6771150 54.1345267 607.84</gx:coord>
+<gx:coord>57.6772300 54.1344617 604.31</gx:coord>
+<gx:coord>57.6770733 54.1343550 601.64</gx:coord>
+<gx:coord>57.6770483 54.1342517 601.79</gx:coord>
+<gx:coord>57.6769783 54.1343383 602.04</gx:coord>
+<gx:coord>57.6767583 54.1343067 603.19</gx:coord>
+<gx:coord>57.6766300 54.1343700 605.59</gx:coord>
+<gx:coord>57.6764817 54.1344000 606.81</gx:coord>
+<gx:coord>57.6763883 54.1343283 607.76</gx:coord>
+<gx:coord>57.6763433 54.1342317 608.78</gx:coord>
+<gx:coord>57.6761700 54.1341817 611.74</gx:coord>
+<gx:coord>57.6760783 54.1340733 618.14</gx:coord>
+<gx:coord>57.6760100 54.1339917 624.34</gx:coord>
+<gx:coord>57.6759083 54.1338950 626.84</gx:coord>
+<gx:coord>57.6757567 54.1339167 630.41</gx:coord>
+<gx:coord>57.6756250 54.1338050 632.99</gx:coord>
+<gx:coord>57.6754850 54.1337483 636.49</gx:coord>
+<gx:coord>57.6752550 54.1337433 641.34</gx:coord>
+<gx:coord>57.6750833 54.1337767 645.84</gx:coord>
+<gx:coord>57.6750550 54.1338667 651.43</gx:coord>
+<gx:coord>57.6750750 54.1339600 653.86</gx:coord>
+<gx:coord>57.6750233 54.1340700 654.44</gx:coord>
+<gx:coord>57.6749417 54.1341500 654.94</gx:coord>
+<gx:coord>57.6747783 54.1342983 653.54</gx:coord>
+<gx:coord>57.6746683 54.1343750 652.65</gx:coord>
+<gx:coord>57.6745267 54.1344800 652.39</gx:coord>
+<gx:coord>57.6744700 54.1345750 651.89</gx:coord>
+<gx:coord>57.6742767 54.1345600 649.04</gx:coord>
+<gx:coord>57.6740017 54.1346433 648.19</gx:coord>
+<gx:coord>57.6740433 54.1345467 642.49</gx:coord>
+<gx:coord>57.6742333 54.1345433 643.34</gx:coord>
+<gx:coord>57.6743917 54.1345433 644.43</gx:coord>
+<gx:coord>57.6745450 54.1345383 644.03</gx:coord>
+<gx:coord>57.6745517 54.1346533 643.40</gx:coord>
+<gx:coord>57.6745883 54.1347433 642.11</gx:coord>
+<gx:coord>57.6746450 54.1348367 640.36</gx:coord>
+<gx:coord>57.6747750 54.1348850 637.33</gx:coord>
+<gx:coord>57.6749700 54.1348517 634.59</gx:coord>
+<gx:coord>57.6750717 54.1347800 632.65</gx:coord>
+<gx:coord>57.6751017 54.1346900 630.96</gx:coord>
+<gx:coord>57.6752183 54.1346300 629.73</gx:coord>
+<gx:coord>57.6752783 54.1345433 628.24</gx:coord>
+<gx:coord>57.6753967 54.1344733 627.24</gx:coord>
+<gx:coord>57.6756100 54.1344900 628.09</gx:coord>
+<gx:coord>57.6758317 54.1345567 628.14</gx:coord>
+<gx:coord>57.6760283 54.1345067 626.94</gx:coord>
+<gx:coord>57.6762067 54.1345067 626.64</gx:coord>
+<gx:coord>57.6762233 54.1345967 626.49</gx:coord>
+<gx:coord>57.6761333 54.1347300 626.14</gx:coord>
+<gx:coord>57.6759900 54.1348183 625.99</gx:coord>
+<gx:coord>57.6758367 54.1349017 623.04</gx:coord>
+<gx:coord>57.6755900 54.1349300 620.64</gx:coord>
+<gx:coord>57.6754300 54.1348983 622.24</gx:coord>
+<gx:coord>57.6753333 54.1348267 623.59</gx:coord>
+<gx:coord>57.6751750 54.1348200 623.76</gx:coord>
+<gx:coord>57.6750200 54.1348317 623.64</gx:coord>
+<gx:coord>57.6748783 54.1348667 623.92</gx:coord>
+<gx:coord>57.6747200 54.1348700 624.52</gx:coord>
+<gx:coord>57.6746100 54.1348050 625.14</gx:coord>
+<gx:coord>57.6743650 54.1347267 627.89</gx:coord>
+<gx:coord>57.6742083 54.1347450 629.54</gx:coord>
+<gx:coord>57.6740733 54.1347017 629.97</gx:coord>
+<gx:coord>57.6739133 54.1346967 631.40</gx:coord>
+<gx:coord>57.6737783 54.1346467 633.79</gx:coord>
+<gx:coord>57.6736400 54.1345967 639.44</gx:coord>
+<gx:coord>57.6735283 54.1345317 647.71</gx:coord>
+<gx:coord>57.6734317 54.1344600 649.30</gx:coord>
+<gx:coord>57.6732967 54.1344133 650.98</gx:coord>
+<gx:coord>57.6731650 54.1343633 654.18</gx:coord>
+<gx:coord>57.6730083 54.1343967 656.39</gx:coord>
+<gx:coord>57.6728850 54.1344633 659.11</gx:coord>
+<gx:coord>57.6727383 54.1345200 660.28</gx:coord>
+<gx:coord>57.6726100 54.1345700 663.08</gx:coord>
+<gx:coord>57.6725867 54.1346700 668.59</gx:coord>
+<gx:coord>57.6724467 54.1347083 671.18</gx:coord>
+<gx:coord>57.6722450 54.1347133 676.84</gx:coord>
+<gx:coord>57.6721033 54.1347517 681.36</gx:coord>
+<gx:coord>57.6720133 54.1348300 684.91</gx:coord>
+</gx:Track>
+</Placemark>
+<open>0</open>
+<visibility>1</visibility>
+</Folder>
+<Folder>
+<name>Paths</name>
+<Placemark>
+<name><![CDATA[Segment 1]]></name>
+<description><![CDATA[]]></description>
+<MultiGeometry>
+<LineString>
+<altitudeMode>absolute</altitudeMode>
+<coordinates>
+57.6955767,54.1258167,408.54
+57.6954500,54.1259117,397.09
+57.6953300,54.1259800,393.81
+57.6952350,54.1260533,393.83
+57.6951317,54.1261400,393.03
+57.6950250,54.1262050,393.96
+57.6948933,54.1262700,395.33
+57.6948050,54.1263500,395.85
+57.6947050,54.1264233,395.84
+57.6945817,54.1264800,395.92
+57.6944783,54.1265500,396.03
+57.6943767,54.1266200,395.91
+57.6942533,54.1266817,392.59
+57.6941700,54.1267683,391.41
+57.6940667,54.1268467,390.73
+57.6939700,54.1269367,389.74
+57.6938733,54.1270200,387.24
+57.6937700,54.1270967,386.44
+57.6936867,54.1271800,386.62
+57.6935800,54.1272600,386.99
+57.6935117,54.1273433,386.60
+57.6934200,54.1274333,385.88
+57.6933567,54.1275217,385.76
+57.6932650,54.1276017,385.65
+57.6931733,54.1276950,384.95
+57.6931100,54.1277833,384.63
+57.6930150,54.1278750,385.34
+57.6929533,54.1279733,385.51
+57.6928733,54.1280617,385.31
+57.6928167,54.1281483,384.91
+57.6927517,54.1282350,384.56
+57.6926983,54.1283283,383.77
+57.6926350,54.1284117,383.25
+57.6925700,54.1285017,382.94
+57.6925200,54.1285933,382.39
+57.6924717,54.1286883,381.72
+57.6924033,54.1287817,381.09
+57.6923567,54.1288683,380.41
+57.6923083,54.1289700,379.73
+57.6922633,54.1290583,379.72
+57.6922333,54.1291500,380.05
+57.6921783,54.1292367,380.04
+57.6921417,54.1293333,380.54
+57.6920900,54.1294283,380.60
+57.6920650,54.1295183,381.21
+57.6920200,54.1296067,381.15
+57.6919917,54.1297000,380.98
+57.6919500,54.1297900,381.64
+57.6919233,54.1298867,381.92
+57.6918800,54.1299750,382.46
+57.6918633,54.1300783,383.85
+57.6918117,54.1301717,384.72
+57.6917517,54.1302633,385.73
+57.6917100,54.1303783,386.52
+57.6916700,54.1304750,387.05
+57.6916150,54.1305600,387.34
+57.6915600,54.1306517,387.80
+57.6914983,54.1307383,388.06
+57.6914683,54.1308300,387.70
+57.6914250,54.1309183,387.09
+57.6913867,54.1310150,387.01
+57.6913483,54.1311050,386.62
+57.6912967,54.1311917,386.35
+57.6912550,54.1312867,386.31
+57.6912133,54.1313883,386.01
+57.6911883,54.1314850,386.02
+57.6911300,54.1315683,385.69
+57.6911050,54.1316633,385.74
+57.6910783,54.1317533,385.64
+57.6910283,54.1318483,385.87
+57.6910350,54.1319400,385.73
+57.6910183,54.1320400,386.01
+57.6909883,54.1321400,386.41
+57.6909383,54.1322300,386.39
+57.6909317,54.1323300,386.66
+57.6909050,54.1324300,386.87
+57.6908650,54.1325300,386.34
+57.6908500,54.1326233,386.49
+57.6908150,54.1327200,386.72
+57.6907750,54.1328133,386.32
+57.6907833,54.1329033,385.36
+57.6907667,54.1330067,383.08
+57.6907733,54.1331033,381.76
+57.6907517,54.1331933,381.10
+57.6907500,54.1332933,380.89
+57.6907483,54.1333933,382.22
+57.6907700,54.1334883,383.35
+57.6907867,54.1335883,383.11
+57.6907650,54.1336783,381.88
+57.6907717,54.1337750,382.44
+57.6907833,54.1338767,383.25
+57.6907750,54.1339750,384.05
+57.6907917,54.1340700,388.49
+57.6907850,54.1341633,388.03
+57.6907650,54.1342583,386.51
+57.6907783,54.1343500,388.49
+57.6907517,54.1344400,391.57
+57.6907383,54.1345467,393.51
+57.6907483,54.1346417,393.31
+57.6907283,54.1347433,392.94
+57.6906867,54.1348467,392.60
+57.6906600,54.1349367,392.43
+57.6906150,54.1350350,391.89
+57.6905883,54.1351300,391.88
+57.6905650,54.1352200,392.00
+57.6904767,54.1353383,392.13
+57.6904300,54.1354400,392.62
+57.6903367,54.1355317,392.88
+57.6902600,54.1356267,393.07
+57.6901883,54.1357117,393.63
+57.6901033,54.1357883,393.78
+57.6900033,54.1358750,393.89
+57.6899067,54.1359450,393.45
+57.6898200,54.1360300,393.36
+57.6897217,54.1361100,393.99
+57.6896167,54.1361883,394.16
+57.6894950,54.1362450,393.98
+57.6893600,54.1363067,393.36
+57.6892633,54.1363783,393.31
+57.6891850,54.1364567,393.04
+57.6890650,54.1365183,392.69
+57.6889200,54.1365717,392.42
+57.6887850,54.1366150,392.43
+57.6886400,54.1366583,392.04
+57.6885133,54.1367133,390.93
+57.6883467,54.1367383,389.87
+57.6882317,54.1368000,388.99
+57.6880933,54.1368400,388.50
+57.6879283,54.1368717,388.05
+57.6877667,54.1368867,387.32
+57.6876133,54.1369100,386.92
+57.6874567,54.1369317,386.36
+57.6873050,54.1369583,386.15
+57.6871633,54.1370133,385.58
+57.6870150,54.1370367,385.35
+57.6868500,54.1370583,385.23
+57.6866883,54.1370667,385.31
+57.6865333,54.1370783,384.93
+57.6863833,54.1371017,382.52
+57.6863833,54.1371917,381.99
+57.6864833,54.1372600,382.73
+57.6865283,54.1373533,382.24
+57.6865383,54.1374450,382.02
+57.6864933,54.1375367,381.81
+57.6865117,54.1376267,381.54
+57.6865917,54.1377167,380.58
+57.6866517,54.1378017,379.92
+57.6866033,54.1378983,379.28
+57.6866733,54.1378117,377.17
+57.6867967,54.1377567,377.19
+57.6866317,54.1377650,376.14
+57.6865283,54.1376867,375.63
+57.6864333,54.1376083,374.97
+57.6864800,54.1375083,374.97
+57.6864817,54.1374117,375.18
+57.6864850,54.1373183,376.02
+57.6864617,54.1372217,377.43
+57.6864517,54.1371267,378.92
+57.6864533,54.1370300,379.73
+57.6864567,54.1371217,381.75
+57.6865050,54.1372167,380.71
+57.6865333,54.1373133,380.27
+57.6865200,54.1374083,379.95
+57.6865167,54.1375017,379.62
+57.6865017,54.1375967,379.40
+57.6865867,54.1376717,378.89
+57.6866800,54.1377450,378.16
+57.6866100,54.1378317,377.08
+57.6864600,54.1378517,375.94
+57.6866083,54.1378783,373.12
+57.6866833,54.1379600,372.52
+57.6866067,54.1378750,371.94
+57.6867450,54.1378067,372.00
+57.6868767,54.1377517,371.79
+57.6867117,54.1377850,372.04
+57.6866133,54.1378583,371.26
+57.6866500,54.1379717,369.24
+57.6866517,54.1378683,365.29
+57.6866650,54.1379583,368.64
+57.6867417,54.1380383,368.44
+57.6866633,54.1379150,368.79
+57.6867300,54.1380633,369.74
+57.6866517,54.1379350,370.54
+57.6867250,54.1380250,370.67
+57.6866283,54.1379517,368.47
+57.6866550,54.1378450,367.10
+57.6867117,54.1379417,370.49
+57.6866317,54.1377950,370.39
+57.6865700,54.1378833,371.30
+57.6865383,54.1377867,378.54
+57.6866100,54.1378717,376.69
+57.6866217,54.1377767,374.74
+57.6866083,54.1378733,372.69
+57.6865933,54.1377750,371.41
+57.6865567,54.1376317,370.99
+57.6865667,54.1377900,374.39
+57.6866317,54.1379033,375.94
+57.6866150,54.1380233,376.64
+57.6866283,54.1381317,376.30
+57.6866533,54.1382417,375.66
+57.6866767,54.1383433,374.91
+57.6866483,54.1381867,373.94
+57.6865917,54.1380700,373.29
+57.6866967,54.1379583,369.49
+57.6865883,54.1378883,367.19
+57.6866333,54.1380650,365.34
+57.6867600,54.1380133,365.15
+57.6866717,54.1379283,365.14
+57.6866067,54.1378417,365.31
+57.6865617,54.1377483,366.11
+57.6865883,54.1378683,366.24
+57.6866533,54.1379517,366.14
+57.6865233,54.1378950,369.00
+57.6866717,54.1379283,366.64
+57.6866483,54.1378333,364.29
+57.6866867,54.1379800,365.64
+57.6865767,54.1379150,365.64
+57.6867100,54.1379633,362.64
+57.6865667,54.1379233,357.34
+57.6865767,54.1378333,367.58
+57.6866533,54.1379133,369.34
+57.6866550,54.1378750,370.34
+57.6864483,54.1377283,369.89
+57.6865650,54.1378217,369.42
+57.6866883,54.1379550,367.79
+57.6866117,54.1378750,365.41
+57.6866683,54.1379617,365.84
+57.6866067,54.1378783,364.59
+57.6866783,54.1379583,364.19
+57.6867550,54.1380383,366.04
+57.6866750,54.1379517,366.99
+57.6865633,54.1378783,366.99
+57.6866283,54.1379600,365.04
+57.6866550,54.1380600,358.89
+57.6866017,54.1379733,348.94
+57.6866217,54.1380683,346.56
+57.6865850,54.1379767,351.34
+57.6865617,54.1378817,351.89
+57.6866033,54.1380267,351.69
+57.6865100,54.1379550,350.59
+57.6865883,54.1380333,354.19
+57.6864667,54.1378983,353.84
+57.6865617,54.1379700,354.53
+57.6865633,54.1380600,351.69
+57.6865800,54.1379700,348.78
+57.6865600,54.1380717,348.01
+57.6865350,54.1379783,346.72
+57.6865650,54.1380733,355.44
+57.6865050,54.1379083,356.04
+57.6865767,54.1380000,361.29
+57.6864750,54.1378767,372.79
+57.6865433,54.1379633,370.18
+57.6866233,54.1380917,374.59
+57.6865233,54.1379933,374.84
+57.6866433,54.1380517,375.31
+57.6866617,54.1379567,377.06
+57.6867500,54.1380367,374.59
+57.6866200,54.1379817,377.04
+57.6865383,54.1378967,379.19
+57.6866150,54.1379800,379.36
+57.6866783,54.1380700,378.99
+57.6866667,54.1379800,378.66
+57.6865217,54.1379450,379.21
+57.6866733,54.1379867,375.00
+57.6865583,54.1379183,374.99
+57.6864633,54.1378267,374.34
+57.6865767,54.1378933,374.49
+57.6866617,54.1379883,374.49
+57.6865533,54.1379150,371.16
+57.6866583,54.1379833,370.29
+57.6866533,54.1380850,374.69
+57.6866217,54.1379883,379.28
+57.6865450,54.1378817,383.49
+57.6866517,54.1379550,385.64
+57.6865583,54.1377817,387.49
+57.6866333,54.1379533,390.59
+57.6865783,54.1378667,390.34
+57.6866767,54.1377817,375.89
+57.6866067,54.1378683,373.54
+57.6865400,54.1379567,372.64
+57.6864917,54.1378650,371.74
+57.6865000,54.1379583,372.09
+57.6864750,54.1380517,372.32
+57.6865100,54.1378950,371.59
+57.6864050,54.1379783,377.29
+57.6863283,54.1380617,376.98
+57.6862467,54.1381417,376.45
+57.6860983,54.1382117,377.32
+57.6859800,54.1382750,378.38
+57.6861350,54.1381133,378.74
+57.6863683,54.1379800,378.44
+57.6864700,54.1379100,378.78
+57.6865733,54.1377967,379.54
+57.6864833,54.1378700,376.76
+57.6865517,54.1377850,374.94
+57.6867217,54.1377867,370.24
+57.6866267,54.1378600,366.56
+57.6866667,54.1377050,364.04
+57.6868083,54.1376383,364.19
+57.6867050,54.1377117,363.76
+57.6866150,54.1377883,360.86
+57.6867000,54.1378667,358.69
+57.6865200,54.1377300,360.09
+57.6864550,54.1376350,368.39
+57.6865400,54.1377150,366.24
+57.6866117,54.1378133,365.54
+57.6865400,54.1377300,367.89
+57.6865633,54.1378350,368.99
+57.6866217,54.1379567,369.84
+57.6866767,54.1380533,370.53
+57.6866783,54.1379567,374.28
+57.6866200,54.1378667,375.59
+57.6866200,54.1379950,367.29
+57.6866233,54.1379050,369.46
+57.6865467,54.1378200,371.74
+57.6866217,54.1379950,369.09
+57.6867233,54.1380950,369.44
+57.6866333,54.1380017,371.21
+57.6865667,54.1379000,371.94
+57.6865750,54.1379983,377.39
+57.6866417,54.1379167,376.03
+57.6865600,54.1379983,374.99
+57.6865533,54.1379067,377.27
+57.6866533,54.1379800,378.04
+57.6865483,54.1378450,381.79
+57.6865683,54.1379350,380.66
+57.6866817,54.1378367,380.74
+57.6866683,54.1379267,381.35
+57.6866833,54.1380200,372.39
+57.6865350,54.1379867,357.94
+57.6864867,54.1378650,355.74
+57.6865967,54.1379300,350.29
+57.6865017,54.1378500,351.06
+57.6865450,54.1379400,355.39
+57.6866167,54.1380767,360.79
+57.6865067,54.1379067,359.69
+57.6864150,54.1378250,359.04
+57.6865417,54.1379033,358.29
+57.6866333,54.1380067,358.41
+57.6867150,54.1380867,358.22
+57.6865850,54.1379850,351.69
+57.6864750,54.1378550,357.34
+57.6864883,54.1379467,366.27
+57.6864867,54.1378567,362.94
+57.6864067,54.1377750,357.74
+57.6865017,54.1379400,352.99
+57.6864517,54.1378533,350.14
+57.6863550,54.1377533,352.29
+57.6863383,54.1376383,355.94
+57.6864750,54.1377900,356.39
+57.6863317,54.1376467,355.14
+57.6864267,54.1377283,356.66
+57.6865200,54.1378133,356.54
+57.6864483,54.1377333,354.64
+57.6863900,54.1376300,356.49
+57.6864317,54.1377883,358.94
+57.6863750,54.1377033,357.01
+57.6863750,54.1376017,351.14
+57.6863233,54.1375150,346.88
+57.6862633,54.1374183,347.74
+57.6862583,54.1375117,349.90
+57.6863083,54.1376200,351.18
+57.6863933,54.1377300,353.89
+57.6864267,54.1378433,357.14
+57.6863983,54.1377517,357.39
+57.6863600,54.1376333,355.94
+57.6863583,54.1377233,355.54
+57.6864767,54.1378683,360.64
+57.6865383,54.1379667,363.99
+57.6864767,54.1378817,364.54
+57.6865033,54.1379867,377.64
+57.6865867,54.1378467,375.09
+57.6865900,54.1377567,377.60
+57.6864717,54.1376950,376.63
+57.6863900,54.1376117,377.29
+57.6864183,54.1375217,377.91
+57.6864450,54.1374250,379.20
+57.6864317,54.1373317,381.15
+57.6863900,54.1372383,382.38
+57.6863867,54.1371183,382.94
+57.6864083,54.1370200,383.92
+57.6862467,54.1370233,383.93
+57.6860850,54.1370667,384.26
+57.6859283,54.1370683,384.74
+57.6857550,54.1370683,385.31
+57.6855967,54.1370717,385.34
+57.6854467,54.1370917,385.60
+57.6852900,54.1370733,386.16
+57.6851233,54.1370600,386.72
+57.6849617,54.1370533,386.92
+57.6848000,54.1370550,387.18
+57.6846300,54.1370533,387.09
+57.6844550,54.1370650,386.94
+57.6843017,54.1370750,386.72
+57.6841367,54.1370933,387.14
+57.6839717,54.1371250,388.03
+57.6838183,54.1371583,388.71
+57.6836517,54.1371517,389.46
+57.6835067,54.1371850,390.25
+57.6834283,54.1370783,380.84
+57.6832633,54.1371017,376.54
+57.6830983,54.1371117,374.98
+57.6829667,54.1371667,373.75
+57.6828067,54.1371750,371.79
+57.6826700,54.1372367,370.86
+57.6825167,54.1372533,370.60
+57.6823650,54.1372750,370.05
+57.6822250,54.1373250,370.04
+57.6820767,54.1373667,370.34
+57.6819350,54.1374117,371.02
+57.6817800,54.1374650,371.54
+57.6816500,54.1375167,372.25
+57.6815183,54.1375800,373.66
+57.6813833,54.1376350,374.79
+57.6812650,54.1377067,376.08
+57.6811533,54.1377733,377.37
+57.6810233,54.1378300,378.22
+57.6808717,54.1378800,378.05
+57.6807217,54.1379217,378.97
+57.6806033,54.1379900,379.06
+57.6804833,54.1380550,377.97
+57.6803400,54.1381083,375.82
+57.6802100,54.1381600,374.17
+57.6800867,54.1382150,371.88
+57.6799467,54.1382567,370.07
+57.6798267,54.1383250,368.73
+57.6796883,54.1383750,368.05
+57.6795600,54.1384350,368.86
+57.6794533,54.1385033,370.42
+57.6793233,54.1385550,371.15
+57.6791717,54.1385833,371.34
+57.6790483,54.1386383,371.99
+57.6789367,54.1387017,372.29
+57.6788117,54.1387550,373.59
+57.6786650,54.1388000,376.65
+57.6785233,54.1388617,378.74
+57.6784133,54.1389317,380.99
+57.6782667,54.1389900,382.28
+57.6781050,54.1390267,383.50
+57.6779550,54.1390600,384.37
+57.6778117,54.1391150,384.56
+57.6776900,54.1391717,384.94
+57.6775483,54.1392150,384.96
+57.6774017,54.1392700,385.29
+57.6772433,54.1393083,384.84
+57.6771017,54.1393433,384.16
+57.6769517,54.1393767,382.22
+57.6768017,54.1394150,381.08
+57.6766600,54.1394617,380.16
+57.6765067,54.1394983,379.58
+57.6763517,54.1395183,378.88
+57.6762000,54.1395517,377.63
+57.6760333,54.1395783,376.63
+57.6758733,54.1395883,375.28
+57.6757217,54.1396333,374.20
+57.6755867,54.1396767,372.50
+57.6754317,54.1397033,372.34
+57.6752683,54.1397250,372.19
+57.6751317,54.1397817,372.44
+57.6749700,54.1397900,372.71
+57.6748150,54.1398050,372.84
+57.6746583,54.1398550,373.06
+57.6745050,54.1398950,373.47
+57.6743383,54.1399267,373.97
+57.6741800,54.1399500,374.32
+57.6740100,54.1399800,374.33
+57.6738483,54.1400167,374.00
+57.6736833,54.1400067,373.10
+57.6735250,54.1400417,371.79
+57.6733867,54.1400817,371.07
+57.6732333,54.1400950,370.52
+57.6730900,54.1401317,370.46
+57.6729433,54.1401717,370.94
+57.6727750,54.1401850,371.54
+57.6726050,54.1402100,372.01
+57.6724667,54.1402517,372.36
+57.6723067,54.1402800,372.87
+57.6721417,54.1402983,373.27
+57.6719833,54.1403467,373.51
+57.6718217,54.1403750,374.24
+57.6716750,54.1404317,374.87
+57.6715367,54.1404750,375.64
+57.6713450,54.1404700,375.69
+57.6711833,54.1405067,375.74
+57.6710250,54.1405283,375.66
+57.6708667,54.1405650,375.58
+57.6707067,54.1406033,375.76
+57.6705567,54.1406350,375.95
+57.6705350,54.1405417,375.14
+57.6706967,54.1405283,375.90
+57.6708517,54.1405117,376.11
+57.6710150,54.1404967,375.80
+57.6711733,54.1404850,375.33
+57.6713217,54.1404617,374.91
+57.6714700,54.1404217,374.67
+57.6716233,54.1403967,374.30
+57.6718000,54.1403767,374.34
+57.6719617,54.1403383,374.38
+57.6721067,54.1403017,374.12
+57.6722500,54.1402633,373.81
+57.6724017,54.1402467,373.51
+57.6725450,54.1402067,373.10
+57.6727150,54.1401883,372.58
+57.6728667,54.1401350,372.35
+57.6730183,54.1400950,372.01
+57.6731700,54.1400683,371.68
+57.6733267,54.1400533,371.18
+57.6734800,54.1400333,370.68
+57.6736317,54.1399867,369.91
+57.6737833,54.1399633,369.35
+57.6739283,54.1399283,368.84
+57.6740667,54.1398850,368.09
+57.6742033,54.1398433,367.68
+57.6743700,54.1398117,367.49
+57.6745283,54.1397800,367.56
+57.6746783,54.1397400,367.68
+57.6748467,54.1397467,367.59
+57.6750100,54.1397417,367.06
+57.6751733,54.1396983,366.72
+57.6753200,54.1396583,366.74
+57.6754767,54.1396400,367.30
+57.6756333,54.1396383,369.33
+57.6757633,54.1395783,370.07
+57.6759167,54.1395433,370.17
+57.6760867,54.1395600,370.00
+57.6762533,54.1395300,370.25
+57.6764017,54.1394900,370.00
+57.6765467,54.1394450,369.35
+57.6767117,54.1394250,368.92
+57.6768633,54.1393883,368.25
+57.6770317,54.1393683,367.53
+57.6771717,54.1393150,366.96
+57.6773333,54.1392817,366.55
+57.6774617,54.1392283,365.84
+57.6775983,54.1391783,365.31
+57.6777467,54.1391283,365.13
+57.6778833,54.1390700,364.70
+57.6780250,54.1390117,365.05
+57.6781817,54.1389733,364.98
+57.6783267,54.1389250,364.50
+57.6782833,54.1388217,364.45
+57.6783167,54.1389633,370.84
+57.6783267,54.1388700,371.14
+57.6782567,54.1387667,372.03
+57.6782117,54.1386800,372.84
+57.6783317,54.1388100,373.09
+57.6783117,54.1387117,373.04
+57.6782467,54.1386250,373.04
+57.6781700,54.1385450,373.14
+57.6780600,54.1384750,373.00
+57.6779117,54.1384483,373.13
+57.6777667,54.1384100,372.94
+57.6776583,54.1383300,372.94
+57.6776167,54.1382417,373.11
+57.6776017,54.1381467,373.09
+57.6777733,54.1380600,374.14
+57.6776183,54.1380400,375.34
+57.6775600,54.1379233,375.69
+57.6777000,54.1380517,375.94
+57.6777300,54.1381683,380.44
+57.6775667,54.1381283,380.59
+57.6774267,54.1380517,380.39
+57.6773833,54.1379617,380.44
+57.6774817,54.1377967,380.89
+57.6774450,54.1377017,381.64
+57.6773550,54.1376283,382.32
+57.6773167,54.1375350,382.75
+57.6773150,54.1374450,383.56
+57.6772367,54.1373183,385.39
+57.6772017,54.1372283,387.01
+57.6771117,54.1371533,387.68
+57.6769583,54.1371350,389.35
+57.6768600,54.1370633,396.01
+57.6769750,54.1369900,400.34
+57.6767900,54.1370117,403.74
+57.6766883,54.1369417,405.21
+57.6765650,54.1368717,407.84
+57.6764267,54.1368217,415.78
+57.6764083,54.1366550,421.84
+57.6762967,54.1367267,428.86
+57.6761617,54.1367767,429.48
+57.6763717,54.1367567,429.87
+57.6762683,54.1366717,432.19
+57.6761883,54.1365700,433.79
+57.6762117,54.1364783,438.66
+57.6761083,54.1364050,439.67
+57.6759600,54.1363150,458.24
+57.6758883,54.1362267,460.61
+57.6757317,54.1361983,470.78
+57.6753617,54.1362317,473.14
+57.6757317,54.1359633,474.24
+57.6756717,54.1360550,470.96
+57.6755267,54.1360133,474.68
+57.6756133,54.1359117,477.04
+57.6754783,54.1358633,479.04
+57.6754167,54.1357117,481.84
+57.6753950,54.1356183,484.74
+57.6752800,54.1355217,488.09
+57.6753917,54.1356450,511.84
+57.6752500,54.1356100,515.83
+57.6752967,54.1355200,517.34
+57.6752683,54.1354133,519.59
+57.6751300,54.1354683,520.85
+57.6749917,54.1355617,528.24
+57.6749500,54.1354567,544.09
+57.6749100,54.1355467,545.14
+57.6747750,54.1356800,548.69
+57.6748867,54.1356133,550.01
+57.6748433,54.1355250,553.14
+57.6749617,54.1355917,556.94
+57.6750567,54.1356650,557.13
+57.6752083,54.1356850,555.67
+57.6753250,54.1357467,554.78
+57.6751833,54.1356983,553.07
+57.6750200,54.1356883,552.62
+57.6749383,54.1356117,552.19
+57.6747517,54.1355150,553.29
+57.6746567,54.1353483,557.04
+57.6746233,54.1351983,564.54
+57.6744733,54.1352233,568.26
+57.6743317,54.1351650,569.34
+57.6742783,54.1350483,575.14
+57.6741567,54.1349567,580.84
+57.6742217,54.1348650,584.14
+57.6740767,54.1348283,603.74
+57.6739333,54.1347650,611.94
+57.6739500,54.1348600,613.54
+57.6739833,54.1347700,615.06
+57.6739900,54.1346783,615.23
+57.6740033,54.1347683,625.63
+57.6740033,54.1348633,627.27
+57.6740133,54.1349567,629.51
+57.6739900,54.1348167,626.64
+57.6738867,54.1347417,628.16
+57.6738283,54.1346583,629.19
+57.6739950,54.1346833,632.52
+57.6738383,54.1347400,635.29
+57.6737217,54.1346800,642.70
+57.6735183,54.1346717,643.79
+57.6733483,54.1346967,650.79
+57.6731933,54.1347117,653.44
+57.6731300,54.1348000,661.47
+57.6730050,54.1347450,665.33
+57.6728433,54.1347333,665.89
+57.6727467,54.1346483,667.09
+57.6725933,54.1346667,672.51
+57.6726100,54.1347567,678.60
+57.6724500,54.1347200,682.11
+57.6723183,54.1346683,681.93
+57.6724300,54.1346033,682.17
+57.6724317,54.1345117,683.03
+57.6724200,54.1346017,684.94
+57.6723917,54.1346917,686.06
+57.6723217,54.1347800,687.27
+57.6724417,54.1347150,687.16
+57.6723333,54.1346450,686.84
+57.6721717,54.1347017,687.39
+57.6721917,54.1347983,690.66
+57.6720517,54.1348500,691.99
+57.6720500,54.1349417,692.96
+57.6720683,54.1348467,692.56
+57.6719250,54.1348800,691.77
+57.6717683,54.1348917,691.95
+57.6719367,54.1348917,693.95
+57.6720650,54.1348417,693.88
+57.6721883,54.1347850,693.83
+57.6722150,54.1346950,693.08
+57.6723850,54.1347033,692.36
+57.6725200,54.1346583,691.65
+57.6726733,54.1346450,689.94
+57.6727733,54.1345650,687.09
+57.6729200,54.1345183,686.56
+57.6730183,54.1344400,685.59
+57.6731733,54.1344400,684.31
+57.6733517,54.1344617,683.09
+57.6734750,54.1345200,681.09
+57.6735350,54.1346033,678.09
+57.6736233,54.1346783,675.29
+57.6735133,54.1347517,673.70
+57.6733417,54.1347450,673.18
+57.6731800,54.1347483,672.21
+57.6733283,54.1347183,663.13
+57.6734817,54.1347050,661.78
+57.6737467,54.1347033,657.84
+57.6737667,54.1346117,655.55
+57.6736433,54.1345550,655.53
+57.6735467,54.1344850,656.49
+57.6734617,54.1344067,656.69
+57.6733050,54.1344100,656.75
+57.6731067,54.1343667,658.09
+57.6729633,54.1344350,660.54
+57.6728567,54.1345000,662.17
+57.6726283,54.1346117,666.94
+57.6725050,54.1346733,677.36
+57.6723483,54.1346550,677.74
+57.6721900,54.1346867,682.04
+57.6721667,54.1347783,685.46
+57.6720517,54.1348383,686.47
+57.6719017,54.1348800,687.84
+57.6720583,54.1348933,689.09
+57.6721017,54.1348067,698.49
+57.6719533,54.1348333,700.34
+57.6721167,54.1348517,701.59
+57.6719267,54.1348467,699.99
+57.6720133,54.1349367,698.54
+57.6721567,54.1348917,695.26
+57.6722750,54.1348133,695.19
+57.6722283,54.1347067,694.79
+57.6723400,54.1347767,694.78
+57.6725133,54.1347517,695.14
+57.6726017,54.1346367,694.94
+57.6726633,54.1345433,693.39
+57.6726333,54.1343967,692.04
+57.6727750,54.1343483,690.57
+57.6729150,54.1343100,688.40
+57.6730700,54.1343400,686.89
+57.6731917,54.1343950,686.20
+57.6733367,54.1343533,685.90
+57.6734700,54.1342667,685.62
+57.6735900,54.1341983,685.17
+57.6737350,54.1342383,683.84
+57.6740250,54.1342750,680.89
+57.6742633,54.1342533,676.84
+57.6743817,54.1341650,670.99
+57.6746117,54.1341733,667.29
+57.6747550,54.1342083,661.66
+57.6749950,54.1342400,657.69
+57.6751467,54.1342783,653.34
+57.6753800,54.1342717,646.49
+57.6755267,54.1343283,643.59
+57.6755000,54.1344233,641.97
+57.6756500,54.1344433,640.59
+57.6757750,54.1343867,637.09
+57.6759233,54.1344117,634.13
+57.6760767,54.1344017,632.34
+57.6760817,54.1345383,628.29
+57.6761317,54.1346400,627.59
+57.6763100,54.1346733,627.09
+57.6765000,54.1346800,625.59
+57.6766550,54.1346917,621.07
+57.6768033,54.1346433,618.86
+57.6769633,54.1345783,613.94
+57.6771150,54.1345267,607.84
+57.6772300,54.1344617,604.31
+57.6770733,54.1343550,601.64
+57.6770483,54.1342517,601.79
+57.6769783,54.1343383,602.04
+57.6767583,54.1343067,603.19
+57.6766300,54.1343700,605.59
+57.6764817,54.1344000,606.81
+57.6763883,54.1343283,607.76
+57.6763433,54.1342317,608.78
+57.6761700,54.1341817,611.74
+57.6760783,54.1340733,618.14
+57.6760100,54.1339917,624.34
+57.6759083,54.1338950,626.84
+57.6757567,54.1339167,630.41
+57.6756250,54.1338050,632.99
+57.6754850,54.1337483,636.49
+57.6752550,54.1337433,641.34
+57.6750833,54.1337767,645.84
+57.6750550,54.1338667,651.43
+57.6750750,54.1339600,653.86
+57.6750233,54.1340700,654.44
+57.6749417,54.1341500,654.94
+57.6747783,54.1342983,653.54
+57.6746683,54.1343750,652.65
+57.6745267,54.1344800,652.39
+57.6744700,54.1345750,651.89
+57.6742767,54.1345600,649.04
+57.6740017,54.1346433,648.19
+57.6740433,54.1345467,642.49
+57.6742333,54.1345433,643.34
+57.6743917,54.1345433,644.43
+57.6745450,54.1345383,644.03
+57.6745517,54.1346533,643.40
+57.6745883,54.1347433,642.11
+57.6746450,54.1348367,640.36
+57.6747750,54.1348850,637.33
+57.6749700,54.1348517,634.59
+57.6750717,54.1347800,632.65
+57.6751017,54.1346900,630.96
+57.6752183,54.1346300,629.73
+57.6752783,54.1345433,628.24
+57.6753967,54.1344733,627.24
+57.6756100,54.1344900,628.09
+57.6758317,54.1345567,628.14
+57.6760283,54.1345067,626.94
+57.6762067,54.1345067,626.64
+57.6762233,54.1345967,626.49
+57.6761333,54.1347300,626.14
+57.6759900,54.1348183,625.99
+57.6758367,54.1349017,623.04
+57.6755900,54.1349300,620.64
+57.6754300,54.1348983,622.24
+57.6753333,54.1348267,623.59
+57.6751750,54.1348200,623.76
+57.6750200,54.1348317,623.64
+57.6748783,54.1348667,623.92
+57.6747200,54.1348700,624.52
+57.6746100,54.1348050,625.14
+57.6743650,54.1347267,627.89
+57.6742083,54.1347450,629.54
+57.6740733,54.1347017,629.97
+57.6739133,54.1346967,631.40
+57.6737783,54.1346467,633.79
+57.6736400,54.1345967,639.44
+57.6735283,54.1345317,647.71
+57.6734317,54.1344600,649.30
+57.6732967,54.1344133,650.98
+57.6731650,54.1343633,654.18
+57.6730083,54.1343967,656.39
+57.6728850,54.1344633,659.11
+57.6727383,54.1345200,660.28
+57.6726100,54.1345700,663.08
+57.6725867,54.1346700,668.59
+57.6724467,54.1347083,671.18
+57.6722450,54.1347133,676.84
+57.6721033,54.1347517,681.36
+57.6720133,54.1348300,684.91
+</coordinates>
+<tessellate>1</tessellate>
+</LineString>
+</MultiGeometry>
+<Style><LineStyle><color>FFE600E6</color><width>4</width></LineStyle></Style>
+</Placemark>
+<open>0</open>
+<visibility>1</visibility>
+</Folder>
+<open>1</open>
+<visibility>1</visibility>
+ </Document>
+</kml>
