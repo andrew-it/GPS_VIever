@@ -1,3 +1,4 @@
-This is my OOP course work in 2th year of USATU university (2015 year)
+This is my OOP course work in 2th year in USATU (Ufa Aviation University) (2015 year)
 
-'original' folder contain non changed files since 2015
+* `original` directory contains non changed files since 2015
+* `changed` directory should contains refactored version
